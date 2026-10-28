@@ -1,0 +1,20 @@
+{
+  "id": "Q01",
+  "kind": "single",
+  "model": "gpt-6-luna",
+  "effort": "medium",
+  "status": "completed",
+  "elapsed_seconds": 4.524,
+  "usage": {
+    "input_tokens": 18635,
+    "cached_input_tokens": 0,
+    "cache_write_input_tokens": 0,
+    "output_tokens": 101,
+    "reasoning_output_tokens": 0
+  },
+  "answer": {
+    "decision": "no_clear_evidence",
+    "evidence": [],
+    "summary": "可见金额关系一致：438321.12元加56981.74元等于价税合计495302.86元；数量711630乘单价0.6159396246约为金额438321.12元。仅凭本页未见足以怀疑关键业务内容被编辑的证据，不能据此确认业务真实。"
+  }
+}

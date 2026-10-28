@@ -1,0 +1,40 @@
+{
+  "id": "Q07",
+  "kind": "paired",
+  "model": "gpt-6-luna",
+  "effort": "medium",
+  "status": "completed",
+  "elapsed_seconds": 5.725,
+  "usage": {
+    "input_tokens": 18449,
+    "cached_input_tokens": 0,
+    "cache_write_input_tokens": 0,
+    "output_tokens": 347,
+    "reasoning_output_tokens": 199
+  },
+  "answer": {
+    "changes": [
+      {
+        "field": "甲方签署日期",
+        "before": "2025年04月30日",
+        "after": "2025年04月04日",
+        "page_a": 1,
+        "page_b": 1,
+        "bbox_a": [
+          0.15,
+          0.84,
+          0.36,
+          0.86
+        ],
+        "bbox_b": [
+          0.05,
+          0.78,
+          0.29,
+          0.8
+        ],
+        "reason": "日期中的“30”变为“04”；其余差异未见可靠内容变化。"
+      }
+    ],
+    "summary": "仅发现甲方签署日期不同：A为2025年04月30日，B为2025年04月04日。"
+  }
+}

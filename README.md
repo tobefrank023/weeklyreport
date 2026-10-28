@@ -22,3 +22,12 @@
 - [完整 CAD 调研：2026-10-22 历史快照](references/CAD-survey-2026-10-22.md)
 - [原 CAD 项目目标说明](references/CAD-agent.md)
 - [原始实验与完整轨迹](https://github.com/cai-yutao/CAD-agent/tree/6c45380541c2480bf6695f8aa87bf705fa893a72)
+
+### 2026-10-28：SWEPM-RF 重构任务构造
+
+介绍从真实仓库发现重构入口、构造完整任务、独立验证与交付的整体架构，说明难度如何通过跨组件约束和迁移完整性加入，并展示 Paperless、nghttp2/nghttpx、Maddy、pandas_profiling 与 HiGHS 五个真实案例。
+
+- [工作介绍、整体架构、难度设计与案例](reports/2026-10-28-SWEPM-RF/SWEPM-RF.md)
+- [完整分享包 ZIP（含两张 PNG 配图）](reports/2026-10-28-SWEPM-RF/SWEPM-RF-share.zip)
+
+材料依据 2026-10-26 核对记录整理，文档重组不代表重新执行题目验证或难度评测。

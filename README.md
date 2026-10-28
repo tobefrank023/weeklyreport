@@ -25,9 +25,9 @@
 
 ### 2026-10-28：SWEPM-RF 重构任务构造
 
-介绍从真实仓库发现重构入口、构造完整任务、独立验证与交付的整体架构，说明难度如何通过跨组件约束和迁移完整性加入，并展示 Paperless、nghttp2/nghttpx、Maddy、pandas_profiling 与 HiGHS 五个真实案例。
+介绍从真实仓库发现重构入口、构造完整任务、独立验证与交付的整体架构，说明难度如何通过跨组件约束和迁移完整性加入，并展示 Paperless、nghttp2/nghttpx、Maddy、pandas_profiling 与 HiGHS 五个真实案例。包含当前 rollout 质检规则：Luna 跑 5 次且最多正确 2 次，再由 Sol 跑 1 次；Sol 失败时 Astra 再跑 1 次，至少一个强模型做对才通过。
 
 - [工作介绍、整体架构、难度设计与案例](reports/2026-10-28-SWEPM-RF/SWEPM-RF.md)
 - [完整分享包 ZIP（含两张 PNG 配图）](reports/2026-10-28-SWEPM-RF/SWEPM-RF-share.zip)
 
-材料依据 2026-10-26 核对记录整理，文档重组不代表重新执行题目验证或难度评测。
+构造与案例材料依据 2026-10-26 核对记录整理，rollout 质检按项目负责人补充的当前规则更新；本次文档更新不代表重新执行题目验证或模型 rollout。

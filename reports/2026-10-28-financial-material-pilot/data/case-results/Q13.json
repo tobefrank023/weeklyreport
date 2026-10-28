@@ -1,0 +1,33 @@
+{
+  "id": "Q13",
+  "kind": "single",
+  "model": "gpt-6-luna",
+  "effort": "medium",
+  "status": "completed",
+  "elapsed_seconds": 7.327,
+  "usage": {
+    "input_tokens": 18766,
+    "cached_input_tokens": 0,
+    "cache_write_input_tokens": 0,
+    "output_tokens": 499,
+    "reasoning_output_tokens": 340
+  },
+  "answer": {
+    "decision": "suspicious",
+    "evidence": [
+      {
+        "page": 1,
+        "field": "金额",
+        "bbox": [
+          0.606,
+          0.41,
+          0.673,
+          0.433
+        ],
+        "observed_value": "953526.94",
+        "reason": "该行金额与合计金额988239.82不一致；数量1689566乘单价0.5849074987357约为988239.82，且该合计与13%税额及价税合计相符。"
+      }
+    ],
+    "summary": "行金额与数量、单价及合计之间存在明显不一致，足以怀疑关键业务字段异常；仅凭此页不能确认是否由编辑造成，也不能推断原值。"
+  }
+}

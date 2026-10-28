@@ -1,0 +1,40 @@
+{
+  "id": "Q24",
+  "kind": "paired",
+  "model": "gpt-6-luna",
+  "effort": "medium",
+  "status": "completed",
+  "elapsed_seconds": 6.675,
+  "usage": {
+    "input_tokens": 18102,
+    "cached_input_tokens": 11648,
+    "cache_write_input_tokens": 0,
+    "output_tokens": 360,
+    "reasoning_output_tokens": 231
+  },
+  "answer": {
+    "changes": [
+      {
+        "field": "金额（元）",
+        "before": "103500",
+        "after": "103503",
+        "page_a": 1,
+        "page_b": 1,
+        "bbox_a": [
+          0.637,
+          0.285,
+          0.699,
+          0.294
+        ],
+        "bbox_b": [
+          0.723,
+          0.314,
+          0.787,
+          0.325
+        ],
+        "reason": "金额栏末位不同：A为0，B为3。"
+      }
+    ],
+    "summary": "两页可辨认的关键业务字段差异为金额栏：A显示103500元，B显示103503元。"
+  }
+}

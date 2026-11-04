@@ -1,0 +1,62 @@
+{
+  "updated": "2026-11-04",
+  "results_as_of": "2026-11-02",
+  "status": "development_prototype",
+  "model_roles": {
+    "solver": "Luna",
+    "simulated_user": "Sol",
+    "anonymized": true
+  },
+  "canonical_development_tasks": 6,
+  "repositories": 2,
+  "method_stages": 9,
+  "latest_cohort": "five-user-v2",
+  "conditions": {
+    "neutral": {
+      "actual_messages": 1,
+      "max_messages": 5,
+      "native_turns": 18,
+      "tool_calls": 15,
+      "target_tests_passed": 3,
+      "target_tests_total": 5,
+      "regression_tests_passed": 1369,
+      "regression_tests_total": 1380
+    },
+    "focus": {
+      "actual_messages": 5,
+      "max_messages": 5,
+      "native_turns": 72,
+      "tool_calls": 61,
+      "target_tests_passed": 4,
+      "target_tests_total": 5,
+      "regression_tests_passed": 1380,
+      "regression_tests_total": 1380
+    },
+    "bad1": {
+      "actual_messages": 1,
+      "max_messages": 1,
+      "native_turns": 12,
+      "tool_calls": 9,
+      "target_tests_passed": 2,
+      "target_tests_total": 5,
+      "regression_tests_passed": 1369,
+      "regression_tests_total": 1380
+    },
+    "bad5": {
+      "actual_messages": 1,
+      "max_messages": 5,
+      "native_turns": 12,
+      "tool_calls": 9,
+      "target_tests_passed": 2,
+      "target_tests_total": 5,
+      "regression_tests_passed": 1369,
+      "regression_tests_total": 1380
+    }
+  },
+  "limitations": [
+    "One sample per condition on one reused development task.",
+    "Actual bad-advice exposure identical in bad1 and bad5.",
+    "Target ordering error already existed before the first message.",
+    "No official benchmark score or stable dose effect."
+  ]
+}

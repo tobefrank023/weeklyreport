@@ -6,8 +6,11 @@
 
 本周整理六道 RF 重构任务：三个 150 轮以上、rubric 满分且功能测试通过的实例，以及三个 high effort 多圈评分波动的实例。
 
+同时完成软件工程 Agent 错误建议干扰评测的原型与多次插话试跑，整理六道开发题和九个方法阶段的观察。
+
 - [本周周报](reports/2026-11-04/README.md)
 - [六道 RF 任务与 rollout 案例](reports/2026-11-04/SWEPM-RF-CASE-STUDIES.md)
+- [软件工程 Agent 错误建议干扰评测](reports/2026-11-04/SWE-BAD-ADVICE-BENCHMARK.md)
 
 ## 2026-10-28（1028）
 

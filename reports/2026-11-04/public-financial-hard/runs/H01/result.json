@@ -1,0 +1,29 @@
+{
+  "id": "H01",
+  "kind": "single",
+  "model": "gpt-6-luna",
+  "effort": "medium",
+  "status": "completed",
+  "exit_code": 0,
+  "elapsed_seconds": 65.452,
+  "answer": {
+    "decision": "no_clear_evidence",
+    "evidence": [],
+    "summary": "附件中可直接核验的合计和重复值未显示明确矛盾；不同报表项目的差异不足以证明业务信息冲突。"
+  },
+  "usage_per_turn": [
+    {
+      "input_tokens": 23746,
+      "cached_input_tokens": 0,
+      "cache_write_input_tokens": 0,
+      "output_tokens": 364,
+      "reasoning_output_tokens": 303
+    }
+  ],
+  "tool_events": [],
+  "turn_started_count": 1,
+  "turn_completed_count": 1,
+  "agent_message_count": 1,
+  "unparsed_event_lines": 0,
+  "completed_utc": "2026-11-04T04:02:53.357250+00:00"
+}

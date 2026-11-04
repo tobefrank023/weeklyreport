@@ -1,0 +1,162 @@
+{
+  "id": "H04",
+  "kind": "paired",
+  "model": "gpt-6-luna",
+  "effort": "medium",
+  "status": "completed",
+  "exit_code": 0,
+  "elapsed_seconds": 65.654,
+  "answer": {
+    "changes": [
+      {
+        "field": "Statement of Net Cost — Department of Health and Human Services, Earned Revenue",
+        "before": "184.3",
+        "after": "120.0",
+        "page_a": 1,
+        "page_b": 1,
+        "bbox_a": [
+          0.576,
+          0.184,
+          0.622,
+          0.199
+        ],
+        "bbox_b": [
+          0.576,
+          0.184,
+          0.622,
+          0.199
+        ]
+      },
+      {
+        "field": "Statement of Net Cost — Department of Defense, Earned Revenue",
+        "before": "120.0",
+        "after": "184.3",
+        "page_a": 1,
+        "page_b": 1,
+        "bbox_a": [
+          0.583,
+          0.219,
+          0.628,
+          0.233
+        ],
+        "bbox_b": [
+          0.583,
+          0.219,
+          0.628,
+          0.233
+        ]
+      },
+      {
+        "field": "Statement of Operations and Changes in Net Position — Corporate income taxes, Funds other than those from Dedicated Collections",
+        "before": "478.4",
+        "after": "29.5",
+        "page_a": 2,
+        "page_b": 2,
+        "bbox_a": [
+          0.544,
+          0.299,
+          0.574,
+          0.313
+        ],
+        "bbox_b": [
+          0.544,
+          0.299,
+          0.574,
+          0.313
+        ]
+      },
+      {
+        "field": "Statement of Operations and Changes in Net Position — Estate and gift taxes, Funds other than those from Dedicated Collections",
+        "before": "29.5",
+        "after": "478.4",
+        "page_a": 2,
+        "page_b": 2,
+        "bbox_a": [
+          0.544,
+          0.364,
+          0.574,
+          0.378
+        ],
+        "bbox_b": [
+          0.544,
+          0.364,
+          0.574,
+          0.378
+        ]
+      },
+      {
+        "field": "Balance Sheets — Cash and other monetary assets, 2025",
+        "before": "1,187.7",
+        "after": "252.9",
+        "page_a": 3,
+        "page_b": 3,
+        "bbox_a": [
+          0.712,
+          0.195,
+          0.763,
+          0.209
+        ],
+        "bbox_b": [
+          0.712,
+          0.195,
+          0.763,
+          0.209
+        ]
+      },
+      {
+        "field": "Balance Sheets — Accounts receivable, net, 2025",
+        "before": "252.9",
+        "after": "2,002.5",
+        "page_a": 3,
+        "page_b": 3,
+        "bbox_a": [
+          0.712,
+          0.211,
+          0.763,
+          0.224
+        ],
+        "bbox_b": [
+          0.712,
+          0.211,
+          0.763,
+          0.224
+        ]
+      },
+      {
+        "field": "Balance Sheets — Loans receivable, net, 2025",
+        "before": "2,002.5",
+        "after": "1,187.7",
+        "page_a": 3,
+        "page_b": 3,
+        "bbox_a": [
+          0.712,
+          0.226,
+          0.763,
+          0.24
+        ],
+        "bbox_b": [
+          0.712,
+          0.226,
+          0.763,
+          0.24
+        ]
+      }
+    ],
+    "summary": "识别出7处金额改动，分别位于三张对齐报表的对应单元格。"
+  },
+  "usage_per_turn": [
+    {
+      "input_tokens": 32493,
+      "cached_input_tokens": 0,
+      "cache_write_input_tokens": 0,
+      "output_tokens": 922,
+      "reasoning_output_tokens": 319
+    }
+  ],
+  "tool_events": [],
+  "turn_started_count": 1,
+  "turn_completed_count": 1,
+  "agent_message_count": 1,
+  "unparsed_event_lines": 0,
+  "completed_utc": "2026-11-04T04:05:54.070321+00:00"
+}

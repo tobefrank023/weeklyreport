@@ -1,0 +1,1 @@
+{"decision":"suspicious","evidence":[{"field":"Intra-governmental cost：Funds other than those from Dedicated Collections；Total net cost 同列","observed_value":"Intra-governmental cost 为 0.0；Net cost 为 4,886.6；Total net cost 为 5,009.1","bbox":[0.1,0.49,0.91,0.53],"reason":"同列 4,886.6 加 0.0 不等于 5,009.1，差 122.5；超过一位小数舍入误差界限。"}],"summary":"表内净成本行存在可直接核验的加总不一致，属于业务内容异常证据。"}

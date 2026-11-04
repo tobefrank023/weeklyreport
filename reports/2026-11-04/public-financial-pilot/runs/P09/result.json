@@ -1,0 +1,41 @@
+{
+  "id": "P09",
+  "kind": "single",
+  "model": "gpt-6-luna",
+  "effort": "medium",
+  "status": "completed",
+  "exit_code": 0,
+  "elapsed_seconds": 60.243,
+  "answer": {
+    "decision": "suspicious",
+    "evidence": [
+      {
+        "field": "Intra-governmental cost：Funds other than those from Dedicated Collections；Total net cost 同列",
+        "observed_value": "Intra-governmental cost 为 0.0；Net cost 为 4,886.6；Total net cost 为 5,009.1",
+        "bbox": [
+          0.1,
+          0.49,
+          0.91,
+          0.53
+        ],
+        "reason": "同列 4,886.6 加 0.0 不等于 5,009.1，差 122.5；超过一位小数舍入误差界限。"
+      }
+    ],
+    "summary": "表内净成本行存在可直接核验的加总不一致，属于业务内容异常证据。"
+  },
+  "usage_per_turn": [
+    {
+      "input_tokens": 17759,
+      "cached_input_tokens": 0,
+      "cache_write_input_tokens": 0,
+      "output_tokens": 784,
+      "reasoning_output_tokens": 614
+    }
+  ],
+  "tool_events": [],
+  "turn_started_count": 1,
+  "turn_completed_count": 1,
+  "agent_message_count": 1,
+  "unparsed_event_lines": 0,
+  "completed_utc": "2026-11-04T03:45:34.589023+00:00"
+}

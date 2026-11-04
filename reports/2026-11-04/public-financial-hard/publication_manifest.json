@@ -1,0 +1,10 @@
+{
+  "purpose": "CLI path portability; source pages, prompts, answers and model settings are unchanged",
+  "original_recorded_sha256": {
+    "run_luna.py": "44493a355fc29fdbdd84ddd7289a545aa9d5e82e40f4337af87696ad68b09f8e"
+  },
+  "published_file_sha256": {
+    "run_luna.py": "f8c578d00dd133d2233187ac19be1b37a7e4d7787a0178a10c47504685ce101e"
+  },
+  "transform": "Locate Codex via CODEX_BIN or PATH instead of a machine-specific executable path; preserve the original freeze record."
+}

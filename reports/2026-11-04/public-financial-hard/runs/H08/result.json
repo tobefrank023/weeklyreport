@@ -1,0 +1,28 @@
+{
+  "id": "H08",
+  "kind": "paired",
+  "model": "gpt-6-luna",
+  "effort": "medium",
+  "status": "completed",
+  "exit_code": 0,
+  "elapsed_seconds": 54.167,
+  "answer": {
+    "changes": [],
+    "summary": "未发现可辨认的业务内容差异。"
+  },
+  "usage_per_turn": [
+    {
+      "input_tokens": 32493,
+      "cached_input_tokens": 12544,
+      "cache_write_input_tokens": 0,
+      "output_tokens": 347,
+      "reasoning_output_tokens": 317
+    }
+  ],
+  "tool_events": [],
+  "turn_started_count": 1,
+  "turn_completed_count": 1,
+  "agent_message_count": 1,
+  "unparsed_event_lines": 0,
+  "completed_utc": "2026-11-04T04:07:33.651298+00:00"
+}

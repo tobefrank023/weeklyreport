@@ -1,0 +1,53 @@
+69                           FY 2024 FINANCIAL STATEMENTS
+
+
+United States Government
+Statements of Social Insurance (Note 25), continued
+Present Value of Long-Range (75 Years, except Black Lung) Actuarial Projections
+
+(In trillions of dollars)                                     2024     2023     2022     2021     2020
+
+Social Insurance Summary:11
+  Participants who have attained eligibility age:
+   Revenue (e.g., contributions and dedicated taxes)                    6.0        5.6        5.4        4.7        4.3
+   Expenditures for scheduled future benefits                           (41.9)      (40.0)      (37.6)      (34.0)      (31.6)
+   Present value of future expenditures in excess of
+      future revenue                                                     (35.9)      (34.4)      (32.2)      (29.3)      (27.3)
+  Participants who have not attained eligibility age:
+   Revenue (e.g., contributions and dedicated taxes)                  74.1       70.4       69.3       62.5       59.0
+   Expenditures for scheduled future benefits                        (144.0)     (140.2)     (137.7)     (126.8)     (118.7)
+   Present value of future expenditures in excess of
+      future revenue                                                     (69.9)      (69.8)      (68.4)      (64.3)      (59.7)
+
+Closed group - Total present value of future expenditures
+  in excess of future revenue                                       (105.8)     (104.2)     (100.6)      (93.6)      (87.0)
+  Future participants:
+   Revenue (e.g., contributions and dedicated taxes)                  63.2       61.4       60.5       55.8       52.9
+   Expenditures for scheduled future benefits                           (35.7)      (35.6)      (35.8)      (33.2)      (31.4)
+   Present value of future revenue in excess of future
+     expenditure                                                  27.5       25.8       24.7       22.6       21.5
+
+Open group - Total present value of future expenditures in
+  excess of future revenue                                            (78.3)      (78.4)      (75.9)      (71.0)      (65.5)
+
+
+1 The projection period for Social Security and Medicare is 1/1/2024 - 12/31/2098 and the valuation date is 1/1/2024.
+2 The projection period for Social Security and Medicare is 1/1/2023 - 12/31/2097 and the valuation date is 1/1/2023.
+3 The projection period for Social Security and Medicare is 1/1/2022 - 12/31/2096 and the valuation date is 1/1/2022.
+4 The projection period for Social Security and Medicare is 1/1/2021 - 12/31/2095 and the valuation date is 1/1/2021.
+5 The projection period for Social Security and Medicare is 1/1/2020 - 12/31/2094 and the valuation date is 1/1/2020.
+6 These amounts represent the PV of the future transfers from the General Fund to the SMI Trust Funds. These future intra-governmental
+  transfers are included as income in both HHS’s and the CMS’s financial statements but, by accounting convention, are not income from the
+  government-wide perspective of this report.
+7 Includes Railroad Retirement and Black Lung.
+8 These amounts do not include the PV of the financial interchange between the railroad retirement and social security systems,
+  which is included as income in the Railroad Retirement Financial Report, but is not included from the government-wide perspective of this
+  report (See discussion of RRB in the unaudited RSI section of this report).
+9 Does not include interest expense accruing on the outstanding debt of the BLDTF.
+10 For information on the projection periods and valuation dates for the Railroad Retirement and Black Lung programs, refer to the financial
+  statements of RRB and DOL, respectively.
+11 Current participants for the Social Security and Medicare programs are assumed to be the closed group of individuals who are at least
+  15 years of age at the start of the projection period, and are participating as either taxpayers, beneficiaries, or both. Amounts shown exclude
+  General Fund transfers reported by CMS for Medicare's Parts B and D.
+
+The accompanying notes are an integral part of these financial statements.

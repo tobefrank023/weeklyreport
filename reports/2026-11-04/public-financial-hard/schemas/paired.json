@@ -1,0 +1,63 @@
+{
+  "type": "object",
+  "properties": {
+    "changes": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "field": {
+            "type": "string"
+          },
+          "before": {
+            "type": "string"
+          },
+          "after": {
+            "type": "string"
+          },
+          "page_a": {
+            "type": "integer"
+          },
+          "page_b": {
+            "type": "integer"
+          },
+          "bbox_a": {
+            "type": "array",
+            "items": {
+              "type": "number"
+            },
+            "minItems": 4,
+            "maxItems": 4
+          },
+          "bbox_b": {
+            "type": "array",
+            "items": {
+              "type": "number"
+            },
+            "minItems": 4,
+            "maxItems": 4
+          }
+        },
+        "required": [
+          "field",
+          "before",
+          "after",
+          "page_a",
+          "page_b",
+          "bbox_a",
+          "bbox_b"
+        ],
+        "additionalProperties": false
+      },
+      "maxItems": 16
+    },
+    "summary": {
+      "type": "string"
+    }
+  },
+  "required": [
+    "changes",
+    "summary"
+  ],
+  "additionalProperties": false
+}

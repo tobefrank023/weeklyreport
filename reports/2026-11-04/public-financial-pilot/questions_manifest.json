@@ -1,0 +1,199 @@
+{
+  "questions": [
+    {
+      "id": "P01",
+      "kind": "single",
+      "directory": "questions/P01",
+      "schema": "schemas/single.json",
+      "images": [
+        {
+          "path": "questions/P01/page.png",
+          "sha256": "199797e82241dff5b290e2911473318818bde84138a72111c4e93a29ec105967",
+          "width": 1391,
+          "height": 1800,
+          "bytes": 225818
+        }
+      ],
+      "prompt_sha256": "d6c8ae3a1fe01b2db04cc50ee0bff6d5dc94c6e8051ddfbb7cd23bd957b01528"
+    },
+    {
+      "id": "P02",
+      "kind": "single",
+      "directory": "questions/P02",
+      "schema": "schemas/single.json",
+      "images": [
+        {
+          "path": "questions/P02/page.png",
+          "sha256": "d5ea903063520dd014771bd7c3b6699e2ba88e95a2be3f166d5ef3caf079adc9",
+          "width": 1391,
+          "height": 1800,
+          "bytes": 225469
+        }
+      ],
+      "prompt_sha256": "d6c8ae3a1fe01b2db04cc50ee0bff6d5dc94c6e8051ddfbb7cd23bd957b01528"
+    },
+    {
+      "id": "P03",
+      "kind": "paired",
+      "directory": "questions/P03",
+      "schema": "schemas/paired.json",
+      "images": [
+        {
+          "path": "questions/P03/page_a.png",
+          "sha256": "1f582e578b6bdb746c70d328b45811c1d8cbdf1f8ad5ef6040de73fd96bb1045",
+          "width": 1391,
+          "height": 1800,
+          "bytes": 186184
+        },
+        {
+          "path": "questions/P03/page_b.png",
+          "sha256": "6e3bac9f811b27792493f4c54b71304f3c69d2e0de4848437abe631bd49de3bf",
+          "width": 1391,
+          "height": 1800,
+          "bytes": 186211
+        }
+      ],
+      "prompt_sha256": "f3e327a68306b8f8489aae0cb30a9089663a4de45495939ef5d13bd0ba00f123"
+    },
+    {
+      "id": "P04",
+      "kind": "paired",
+      "directory": "questions/P04",
+      "schema": "schemas/paired.json",
+      "images": [
+        {
+          "path": "questions/P04/page_a.png",
+          "sha256": "494855daeeae9dd0c2c1aca4dcb46f5d85969f8e5653552ffa2547deb1211c0b",
+          "width": 1391,
+          "height": 1800,
+          "bytes": 213591
+        },
+        {
+          "path": "questions/P04/page_b.png",
+          "sha256": "fb1e2db6a9ebfc6e9057db8a5b4c9f37f109f57ba5d2669ab3c3f4c79f4a89c9",
+          "width": 1391,
+          "height": 1800,
+          "bytes": 213689
+        }
+      ],
+      "prompt_sha256": "f3e327a68306b8f8489aae0cb30a9089663a4de45495939ef5d13bd0ba00f123"
+    },
+    {
+      "id": "P05",
+      "kind": "single",
+      "directory": "questions/P05",
+      "schema": "schemas/single.json",
+      "images": [
+        {
+          "path": "questions/P05/page.png",
+          "sha256": "1754057541fc348c483d4b250eb47d38e09f544dc5f87cae897ecae691eda978",
+          "width": 1391,
+          "height": 1800,
+          "bytes": 189002
+        }
+      ],
+      "prompt_sha256": "d6c8ae3a1fe01b2db04cc50ee0bff6d5dc94c6e8051ddfbb7cd23bd957b01528"
+    },
+    {
+      "id": "P06",
+      "kind": "paired",
+      "directory": "questions/P06",
+      "schema": "schemas/paired.json",
+      "images": [
+        {
+          "path": "questions/P06/page_a.png",
+          "sha256": "d5ea903063520dd014771bd7c3b6699e2ba88e95a2be3f166d5ef3caf079adc9",
+          "width": 1391,
+          "height": 1800,
+          "bytes": 225469
+        },
+        {
+          "path": "questions/P06/page_b.png",
+          "sha256": "5df99f16e94c34ca786787fac3b088ecec15dcfecc82cc782092008d4b9f2c3c",
+          "width": 1391,
+          "height": 1800,
+          "bytes": 225474
+        }
+      ],
+      "prompt_sha256": "f3e327a68306b8f8489aae0cb30a9089663a4de45495939ef5d13bd0ba00f123"
+    },
+    {
+      "id": "P07",
+      "kind": "single",
+      "directory": "questions/P07",
+      "schema": "schemas/single.json",
+      "images": [
+        {
+          "path": "questions/P07/page.png",
+          "sha256": "99910aabfecf409a45a160c9c6bcc6a85b71bf659d530ef2acfa21c144a8aac4",
+          "width": 1391,
+          "height": 1800,
+          "bytes": 536799
+        }
+      ],
+      "prompt_sha256": "d6c8ae3a1fe01b2db04cc50ee0bff6d5dc94c6e8051ddfbb7cd23bd957b01528"
+    },
+    {
+      "id": "P08",
+      "kind": "paired",
+      "directory": "questions/P08",
+      "schema": "schemas/paired.json",
+      "images": [
+        {
+          "path": "questions/P08/page_a.png",
+          "sha256": "e3838bdc380eb20a277c770a4bb12778afbf4794f75d0a288f64fd42f6bc0b23",
+          "width": 1391,
+          "height": 1800,
+          "bytes": 189144
+        },
+        {
+          "path": "questions/P08/page_b.png",
+          "sha256": "dbb063e9377cd443a22368e862f17b07bc9a8abd98ba67b2fb39f6ba2b075bb7",
+          "width": 1391,
+          "height": 1800,
+          "bytes": 189126
+        }
+      ],
+      "prompt_sha256": "f3e327a68306b8f8489aae0cb30a9089663a4de45495939ef5d13bd0ba00f123"
+    },
+    {
+      "id": "P09",
+      "kind": "single",
+      "directory": "questions/P09",
+      "schema": "schemas/single.json",
+      "images": [
+        {
+          "path": "questions/P09/page.png",
+          "sha256": "567756cd05bfe08841a20002fd2b192a5bbeae220b01ea1ca60467ecf846e614",
+          "width": 1391,
+          "height": 1800,
+          "bytes": 185971
+        }
+      ],
+      "prompt_sha256": "d6c8ae3a1fe01b2db04cc50ee0bff6d5dc94c6e8051ddfbb7cd23bd957b01528"
+    },
+    {
+      "id": "P10",
+      "kind": "paired",
+      "directory": "questions/P10",
+      "schema": "schemas/paired.json",
+      "images": [
+        {
+          "path": "questions/P10/page_a.png",
+          "sha256": "494855daeeae9dd0c2c1aca4dcb46f5d85969f8e5653552ffa2547deb1211c0b",
+          "width": 1391,
+          "height": 1800,
+          "bytes": 213591
+        },
+        {
+          "path": "questions/P10/page_b.png",
+          "sha256": "494855daeeae9dd0c2c1aca4dcb46f5d85969f8e5653552ffa2547deb1211c0b",
+          "width": 1391,
+          "height": 1800,
+          "bytes": 213591
+        }
+      ],
+      "prompt_sha256": "f3e327a68306b8f8489aae0cb30a9089663a4de45495939ef5d13bd0ba00f123"
+    }
+  ]
+}

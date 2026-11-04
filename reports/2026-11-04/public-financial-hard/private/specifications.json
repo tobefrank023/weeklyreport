@@ -1,0 +1,214 @@
+[
+  {
+    "id": "H01",
+    "kind": "single",
+    "pages": [
+      "S25P10",
+      "S25P13",
+      "S25P14"
+    ],
+    "edits": {
+      "S25P14": {
+        "cash": "1,188.4",
+        "loans": "2,001.8"
+      }
+    },
+    "pattern": "reclassification; only cross-page cash mismatch",
+    "expected_relations": [
+      "2025 cash: balance sheet 1188.4 versus cash-flow ending 1187.7"
+    ]
+  },
+  {
+    "id": "H02",
+    "kind": "single",
+    "pages": [
+      "S25P08",
+      "S25P10",
+      "S25P12",
+      "S25P14"
+    ],
+    "edits": {
+      "S25P10": {
+        "net_cost_other": "4,592.0",
+        "net_cost_total": "7,344.8",
+        "total_net_cost_other": "4,704.8",
+        "total_net_cost_total": "7,344.8",
+        "netop_other_main": "(1,938.8)",
+        "netop_total_main": "(2,100.2)",
+        "netop_other_repeat": "(1,938.8)",
+        "netop_total_repeat": "(2,100.2)",
+        "ending_other": "(45,276.3)",
+        "ending_total": "(41,730.4)"
+      }
+    },
+    "variant": "coupled",
+    "pattern": "ten coupled edits preserve page-local equations",
+    "expected_relations": [
+      "2025 net cost: 7337.8 on net-cost statement versus 7344.8 on operations statement",
+      "2025 net operating cost: 2093.2 in reconciliation versus 2100.2 in operations",
+      "2025 ending net position: -41723.4 balance sheet versus -41730.4 operations"
+    ]
+  },
+  {
+    "id": "H03",
+    "kind": "paired",
+    "pages": [
+      "S25P08",
+      "S25P10",
+      "S25P12",
+      "S25P14"
+    ],
+    "edits": {
+      "S25P10": {
+        "net_cost_other": "4,592.0",
+        "net_cost_total": "7,344.8",
+        "total_net_cost_other": "4,704.8",
+        "total_net_cost_total": "7,344.8",
+        "netop_other_main": "(1,938.8)",
+        "netop_total_main": "(2,100.2)",
+        "netop_other_repeat": "(1,938.8)",
+        "netop_total_repeat": "(2,100.2)",
+        "ending_other": "(45,276.3)",
+        "ending_total": "(41,730.4)"
+      }
+    },
+    "variant": "coupled",
+    "pattern": "complete ten-cell coupled edit enumeration"
+  },
+  {
+    "id": "H04",
+    "kind": "paired",
+    "pages": [
+      "S25P08",
+      "S25P10",
+      "S25P14"
+    ],
+    "edits": {
+      "S25P14": {
+        "cash": "252.9",
+        "accounts": "2,002.5",
+        "loans": "1,187.7"
+      },
+      "S25P10": {
+        "corporate_other": "29.5",
+        "corporate_total": "29.5",
+        "estate_other": "478.4",
+        "estate_total": "478.4"
+      },
+      "S25P08": {
+        "hhs_revenue": "120.0",
+        "defense_revenue": "184.3"
+      }
+    },
+    "pattern": "nine cell bindings change across three pages; same numeric multiset"
+  },
+  {
+    "id": "H05",
+    "kind": "single",
+    "pages": [
+      "S25P08",
+      "S25P10",
+      "S25P12",
+      "S25P14"
+    ],
+    "edits": {},
+    "pattern": "unmodified four-page internal-consistency control"
+  },
+  {
+    "id": "H06",
+    "kind": "single",
+    "pages": [
+      "S24P14",
+      "S25P14"
+    ],
+    "edits": {},
+    "pattern": "legitimate 2024 restatement across official annual reports; no introduced edits"
+  },
+  {
+    "id": "H07",
+    "kind": "paired",
+    "pages": [
+      "S24P09",
+      "S24P14"
+    ],
+    "edits": {
+      "S24P09": {
+        "sec_subtotal": "0.2",
+        "sec_net": "0.2",
+        "pbgc_gross": "55.8",
+        "pbgc_subtotal": "38.8",
+        "pbgc_net": "38.8"
+      },
+      "S24P14": {
+        "guarantees": "27.8",
+        "accounts": "278.8"
+      }
+    },
+    "pattern": "seven sign and decimal changes; statement year differs from FY header"
+  },
+  {
+    "id": "H08",
+    "kind": "paired",
+    "pages": [
+      "S25P08",
+      "S25P10",
+      "S25P14"
+    ],
+    "edits": {},
+    "b_order": [
+      "S25P14",
+      "S25P08",
+      "S25P10"
+    ],
+    "benign_b": true,
+    "pattern": "page permutation plus benign JPEG processing; no business field edit"
+  },
+  {
+    "id": "H09",
+    "kind": "single",
+    "pages": [
+      "S25P10",
+      "S25P13",
+      "S25P14"
+    ],
+    "edits": {
+      "S25P14": {
+        "unit": "(In millions of dollars)"
+      }
+    },
+    "pattern": "unit-only edit; numbers and page-local arithmetic unchanged",
+    "expected_relations": [
+      "2025 ending cash 1187.7 billions on cash-flow statement versus 1187.7 millions on balance sheet",
+      "2025 ending net position -41723.4 billions on operations versus -41723.4 millions on balance sheet"
+    ]
+  },
+  {
+    "id": "H10",
+    "kind": "paired",
+    "pages": [
+      "S25P08",
+      "S25P10",
+      "S25P14"
+    ],
+    "edits": {
+      "S25P08": {
+        "unit": "(In millions of dollars)",
+        "year_1": "2026",
+        "year_2": "2026"
+      },
+      "S25P10": {
+        "unit": "(In millions of dollars)",
+        "year_1": "2026",
+        "year_2": "2026",
+        "year_3": "2026"
+      },
+      "S25P14": {
+        "unit": "(In millions of dollars)",
+        "year_1": "2026",
+        "year_2": "2026,",
+        "year_3": "2026"
+      }
+    },
+    "pattern": "eleven repeated year and unit-label edits across three pages; monetary numerals unchanged"
+  }
+]

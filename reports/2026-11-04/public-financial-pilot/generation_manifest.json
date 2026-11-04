@@ -1,0 +1,43 @@
+{
+  "date_utc": "2026-11-04",
+  "source_documents": 2,
+  "source_pages": 4,
+  "questions": 10,
+  "single": 5,
+  "paired": 5,
+  "content_edited_questions": 7,
+  "controls": 3,
+  "base_specs": {
+    "B01": {
+      "source": "TREASURY2024",
+      "page": 14,
+      "printed_page": 65
+    },
+    "B02": {
+      "source": "TREASURY2025",
+      "page": 14,
+      "printed_page": 65
+    },
+    "B03": {
+      "source": "TREASURY2024",
+      "page": 10,
+      "printed_page": 61
+    },
+    "B04": {
+      "source": "TREASURY2025",
+      "page": 10,
+      "printed_page": 61
+    }
+  },
+  "method": "native PDF text redaction/reinsertion with extracted original font, then uniform full-page PNG rendering",
+  "sham_controls": "all candidate cells reinserted in edited and control variants, with source values retained in controls",
+  "max_image_edge": 1800,
+  "pdf_tool_version": "1.26.6",
+  "private_data_used": false,
+  "limitations": [
+    "Only two annual reports from one publisher and four base pages; no independent train/test split.",
+    "This pilot tests native PDF edits, not realistic Photoshop or generative inpainting artifacts.",
+    "Controls balance insertion artifacts only at selected candidate cells, not the whole editing distribution.",
+    "Original public documents can include rounding, restatements and accounting limitations; they are reference versions, not authenticity certificates."
+  ]
+}

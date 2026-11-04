@@ -1,0 +1,32 @@
+                             FY 2025 FINANCIAL STATEMENTS                              70
+
+United States Government
+Statement of Changes in Social Insurance Amounts
+for the Year Ended September 30, 2025 (Note 25)
+
+                                                 Social    Medicare  Medicare
+(In trillions of dollars)                                Security1       HI1        SMI1, 3      Other2      Total
+
+NPV of future revenue less future expenditures
+  for current and future participants (open group)
+  over the next 75 years, beginning of the year                  (25.4)          (2.6)        (50.2)          (0.1)        (78.3)
+Reasons for changes in the NPV during the year:
+ Changes in valuation period                                      (0.8)          (0.1)          (1.7)                 -           (2.6)
+ Changes in demographic data, assumptions, and
+  methods                                                           (0.1)          0.3          0.8                  -          1.0
+ Changes in economic data, assumptions, and
+  methods                                                           (0.3)                 -                  -                  -           (0.3)
+ Changes in law or policy                                          (1.1)                 -                  -                  -           (1.1)
+ Changes in methodology and programmatic data                (0.2)                 -                  -                  -           (0.2)
+ Changes in economic and health care
+  assumptions                                                                        -           (0.3)          (4.5)                 -           (4.8)
+ Change in projection base                                                      -           (0.6)          (1.5)                 -           (2.1)
+  Net change in open group measure                              (2.5)          (0.7)          (6.9)                 -         (10.1)
+Open group measure, end of year                               (27.9)          (3.3)        (57.1)          (0.1)        (88.4)
+
+1 Amounts represent changes between valuation dates 1/1/2024 and 1/1/2025.
+2 Includes Railroad Retirement changes between valuation dates 10/1/2023 and 10/1/2024 and Black Lung changes between 9/30/2024 and
+  9/30/2025.
+3 Amounts shown exclude General Fund transfers reported by CMS for Medicare's Parts B and D.
+
+The accompanying notes are an integral part of these financial statements.

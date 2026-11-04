@@ -1,0 +1,63 @@
+{
+  "id": "P04",
+  "kind": "paired",
+  "model": "gpt-6-luna",
+  "effort": "medium",
+  "status": "completed",
+  "exit_code": 0,
+  "elapsed_seconds": 55.895,
+  "answer": {
+    "changes": [
+      {
+        "field": "Cash and other monetary assets (Note 2), 2025",
+        "before": "1,187.7",
+        "after": "1,287.7",
+        "bbox_a": [
+          0.709,
+          0.195,
+          0.764,
+          0.21
+        ],
+        "bbox_b": [
+          0.709,
+          0.195,
+          0.764,
+          0.21
+        ]
+      },
+      {
+        "field": "Loans receivable, net (Note 4), 2025",
+        "before": "2,002.5",
+        "after": "1,902.5",
+        "bbox_a": [
+          0.709,
+          0.226,
+          0.764,
+          0.241
+        ],
+        "bbox_b": [
+          0.709,
+          0.226,
+          0.764,
+          0.241
+        ]
+      }
+    ],
+    "summary": "可辨认出两处业务字段变化；其余可见内容无可靠差异。"
+  },
+  "usage_per_turn": [
+    {
+      "input_tokens": 20612,
+      "cached_input_tokens": 0,
+      "cache_write_input_tokens": 0,
+      "output_tokens": 333,
+      "reasoning_output_tokens": 152
+    }
+  ],
+  "tool_events": [],
+  "turn_started_count": 1,
+  "turn_completed_count": 1,
+  "agent_message_count": 1,
+  "unparsed_event_lines": 0,
+  "completed_utc": "2026-11-04T03:43:37.339205+00:00"
+}

@@ -1,0 +1,63 @@
+{
+  "id": "P08",
+  "kind": "paired",
+  "model": "gpt-6-luna",
+  "effort": "medium",
+  "status": "completed",
+  "exit_code": 0,
+  "elapsed_seconds": 56.089,
+  "answer": {
+    "changes": [
+      {
+        "field": "Excise taxes — Funds other than those from Dedicated Collections",
+        "before": "37.2",
+        "after": "67.3",
+        "bbox_a": [
+          0.522,
+          0.33,
+          0.574,
+          0.343
+        ],
+        "bbox_b": [
+          0.522,
+          0.33,
+          0.574,
+          0.343
+        ]
+      },
+      {
+        "field": "Excise taxes — Funds from Dedicated Collections (Note 22)",
+        "before": "67.3",
+        "after": "37.2",
+        "bbox_a": [
+          0.654,
+          0.33,
+          0.705,
+          0.343
+        ],
+        "bbox_b": [
+          0.654,
+          0.33,
+          0.705,
+          0.343
+        ]
+      }
+    ],
+    "summary": "可辨认的业务内容差异仅为“Excise taxes”一行中37.2与67.3在两个基金列之间互换。"
+  },
+  "usage_per_turn": [
+    {
+      "input_tokens": 20612,
+      "cached_input_tokens": 0,
+      "cache_write_input_tokens": 0,
+      "output_tokens": 344,
+      "reasoning_output_tokens": 160
+    }
+  ],
+  "tool_events": [],
+  "turn_started_count": 1,
+  "turn_completed_count": 1,
+  "agent_message_count": 1,
+  "unparsed_event_lines": 0,
+  "completed_utc": "2026-11-04T03:45:27.738610+00:00"
+}

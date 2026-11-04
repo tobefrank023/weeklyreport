@@ -1,0 +1,58 @@
+63                           FY 2024 FINANCIAL STATEMENTS
+
+
+United States Government
+Reconciliations of Net Operating Cost and Budget Deficit
+for the Years Ended September 30, 2024, and 2023
+
+(In billions of dollars)                                                            2024        2023*
+
+Net operating cost                                                                                (2,425.0)        (3,417.2)
+Components of net operating cost not part of the budget deficit:
+ Excess of accrual-basis expenses over budget outlays:
+   ** Federal employee and veteran benefits payable:
+     Pension and accrued benefits                                                           324.5          303.7
+      Veterans compensation and burial benefits                                               113.6         1,130.7
+      Post-retirement health and accrued benefits                                               219.0           49.5
+      Other benefits                                                                            28.7           51.8
+        Subtotal - federal employee and veteran benefits payable                                 685.8         1,535.7
+   ** Insurance and guarantee program liabilities                                                       6.7              (5.2)
+   ** Environmental and disposal liabilities                                                         20.7           19.0
+   ** Accounts payable                                                                          10.0             9.6
+   ** Benefits due and payable                                                                                (5.9)           37.6
+   ** Advances from others and deferred revenue                                                      7.8          108.1
+    Other liabilities                                                                                 (108.0)         157.9
+        Subtotal - excess of accrual-basis expenses over budget outlays                           617.1         1,862.7
+  Amortized expenses not included in budget outlays:
+    Property, plant, and equipment depreciation expense                                          70.6           77.9
+  Other expenses that are not reported as budget outlays:
+    Property, plant, and equipment disposals and revaluations                                         2.0             9.1
+ Excess of accrual-basis revenue over budget receipts:
+    Accounts receivable, net                                                                                 (2.5)           (18.6)
+    Taxes receivable, net                                                                       43.7           55.0
+  Other losses/(gains) and cost/(revenue) that are not budget receipts:
+   ** Investments in government-sponsored enterprises                                                 (65.4)           (16.7)
+        Subtotal - components of net operating cost not part of budget deficit                       665.5         1,969.4
+Components of the budget deficit that are not part of net operating cost:
+ Budget receipts not included in net operating cost:
+    Credit reform and other loan activities                                                           (145.6)           24.5
+ Budget outlays not included in net operating cost:
+     Acquisition of capital assets                                                                    (127.7)         (124.5)
+   ** Investments                                                                                               (1.6)             (0.5)
+   ** Inventory and related property, net                                                                 (24.3)           (16.1)
+   ** Advances and prepayments                                                              106.3           45.4
+    Other assets                                                                            115.8          (157.7)
+        Subtotal - components of the budget deficit that are not part of net operating cost               (77.1)         (228.9)
+Adjustments to beginning net position                                                         20.4              (0.8)
+Other:
+     Allocations of special drawing rights                                                                     (4.8)             (4.0)
+     All other reconciling items                                                                          (11.8)           (13.7)
+        Total other                                                                                     (16.6)           (17.7)
+Budget deficit                                                                                     (1,832.8)        (1,695.2)
+
+
+*  Certain amounts differ from prior year reported amounts due to a change in presentation (see Financial Statement Note 1.W).
+** The amounts represent the year over year net change in the Balance Sheet line items.
+
+
+The accompanying notes are an integral part of these financial statements.

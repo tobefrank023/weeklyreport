@@ -1,0 +1,28 @@
+[
+  {
+    "url": "https://fiscal.treasury.gov/system/files/files/reports-statements/financial-report/2024/financial-statements-2024.pdf",
+    "resolved_url": "https://fiscal.treasury.gov/system/files/files/reports-statements/financial-report/2024/financial-statements-2024.pdf",
+    "content_type": "application/pdf",
+    "retrieved_utc": "2026-11-04T03:34:40.704347+00:00",
+    "source_id": "TREASURY2024",
+    "path": "sources/TREASURY2024.pdf",
+    "bytes": 351218,
+    "sha256": "0f3648ec16a69e0c5394d7d674d9f3978221170ea26d63d92277bbcc3d03e451",
+    "source_kind": "US Treasury official public financial statements",
+    "rights_basis": "US federal-government authored financial tables; no third-party photos selected",
+    "rights_reference": "https://www.loc.gov/legal/security-copyright-and-privacy/understanding-copyright/"
+  },
+  {
+    "url": "https://fiscal.treasury.gov/system/files/2026-03/financial-statements-2025.pdf",
+    "resolved_url": "https://fiscal.treasury.gov/system/files/2026-03/financial-statements-2025.pdf",
+    "content_type": "application/pdf",
+    "retrieved_utc": "2026-11-04T03:34:41.517183+00:00",
+    "source_id": "TREASURY2025",
+    "path": "sources/TREASURY2025.pdf",
+    "bytes": 714281,
+    "sha256": "e8e7d37f155a47b9af7997aecf7aa07041c5d3a1592fddc009ceb3be92e28c31",
+    "source_kind": "US Treasury official public financial statements",
+    "rights_basis": "US federal-government authored financial tables; no third-party photos selected",
+    "rights_reference": "https://www.loc.gov/legal/security-copyright-and-privacy/understanding-copyright/"
+  }
+]

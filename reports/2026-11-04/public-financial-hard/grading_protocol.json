@@ -1,0 +1,11 @@
+{
+  "question_weight": 10,
+  "single_edited": "Correct suspicious decision AND at least one valid relation affected by the edit. Cross-page relations require correct fiscal year, concept, units and both sides. No need to guess which side is authentic.",
+  "single_control": "No-clear-evidence decision with no false anomaly assertion. Insufficient is recorded as abstention and zero completion points, not automatically a false alarm.",
+  "paired_edited": "10 times fraction of all introduced cells/labels correctly bound to both versions, including correct page, row, column and before/after values. Repeated occurrences count separately.",
+  "paired_control": "10 only for no business-content changes; permutation and benign processing do not count.",
+  "extra_claims": "Reported separately with field precision; recall-based content score alone does not penalize extras.",
+  "boxes": "Saved, not scored in primary content-completion score.",
+  "schema_capacity": "16 changes; maximum gold count is 11, so no answer is blocked by count cap.",
+  "scope": "Development difficulty experiment, same public publisher and reused documents; no official held-out or independent expert gold claim."
+}

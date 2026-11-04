@@ -1,0 +1,94 @@
+{
+  "questions_checked": 10,
+  "edited_variants_checked": 7,
+  "checks": [
+    {
+      "variant": "V01",
+      "changed_pixels": 127,
+      "changed_pixels_outside_annotated_regions_with_4px_margin": 0
+    },
+    {
+      "variant": "V03",
+      "changed_pixels": 1274,
+      "changed_pixels_outside_annotated_regions_with_4px_margin": 0
+    },
+    {
+      "variant": "V04",
+      "changed_pixels": 329,
+      "changed_pixels_outside_annotated_regions_with_4px_margin": 0
+    },
+    {
+      "variant": "V05",
+      "changed_pixels": 112,
+      "changed_pixels_outside_annotated_regions_with_4px_margin": 0
+    },
+    {
+      "variant": "V06",
+      "changed_pixels": 214,
+      "changed_pixels_outside_annotated_regions_with_4px_margin": 0
+    },
+    {
+      "variant": "V08",
+      "changed_pixels": 441,
+      "changed_pixels_outside_annotated_regions_with_4px_margin": 0
+    },
+    {
+      "variant": "V09",
+      "changed_pixels": 377,
+      "changed_pixels_outside_annotated_regions_with_4px_margin": 0
+    }
+  ],
+  "native_text_checks": [
+    {
+      "variant": "B01_control",
+      "native_text_multiset_matches_only_intended_replacements": true
+    },
+    {
+      "variant": "B02_control",
+      "native_text_multiset_matches_only_intended_replacements": true
+    },
+    {
+      "variant": "B03_control",
+      "native_text_multiset_matches_only_intended_replacements": true
+    },
+    {
+      "variant": "B04_control",
+      "native_text_multiset_matches_only_intended_replacements": true
+    },
+    {
+      "variant": "V01",
+      "native_text_multiset_matches_only_intended_replacements": true
+    },
+    {
+      "variant": "V03",
+      "native_text_multiset_matches_only_intended_replacements": true
+    },
+    {
+      "variant": "V04",
+      "native_text_multiset_matches_only_intended_replacements": true
+    },
+    {
+      "variant": "V05",
+      "native_text_multiset_matches_only_intended_replacements": true
+    },
+    {
+      "variant": "V06",
+      "native_text_multiset_matches_only_intended_replacements": true
+    },
+    {
+      "variant": "V07",
+      "native_text_multiset_matches_only_intended_replacements": true
+    },
+    {
+      "variant": "V08",
+      "native_text_multiset_matches_only_intended_replacements": true
+    },
+    {
+      "variant": "V09",
+      "native_text_multiset_matches_only_intended_replacements": true
+    }
+  ],
+  "source_value_readback": "all native PDF replacement values checked by prepare.py",
+  "arithmetic_checks": "private/arithmetic_checks.json",
+  "limitations": "Pixel localization proves intended raster changes only; it does not certify visual realism or original business authenticity."
+}

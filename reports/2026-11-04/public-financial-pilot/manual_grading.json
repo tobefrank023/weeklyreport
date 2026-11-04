@@ -1,0 +1,16 @@
+{
+  "adjudicator": "root Codex; manual comparison with generator truth and independent decimal checks",
+  "independent_expert_review": false,
+  "items": [
+    {"id":"P01","single_supported":true,"verdict":"完整","reason":"正确算出2024资产明细合计6462.1，与列示5662.1相差800.0；是本次编辑直接引入的关系矛盾。"},
+    {"id":"P02","control_correct":true,"verdict":"完整","reason":"回答no_clear_evidence且没有额外异常断言。"},
+    {"id":"P03","matches":[{"prediction_index":0,"truth_field":"corporate_funds"},{"prediction_index":1,"truth_field":"estate_funds"}],"extra_claims":0,"verdict":"部分","reason":"行名、前后值和基金列归属正确；未报告Corporate及Estate两行Total列的同步修改，漏2个字段。"},
+    {"id":"P04","matches":[{"prediction_index":0,"truth_field":"cash"},{"prediction_index":1,"truth_field":"loans"}],"extra_claims":0,"verdict":"完整","reason":"正确列出2025列现金1187.7到1287.7、贷款应收2002.5到1902.5。"},
+    {"id":"P05","single_supported":true,"verdict":"完整","reason":"正确读到5344.6，并核实收入行合计应为5244.6、差100.0。"},
+    {"id":"P06","matches":[{"prediction_index":0,"truth_field":"guarantees"}],"extra_claims":0,"verdict":"完整","reason":"正确列出2024列Loan guarantees的27.9到72.9。"},
+    {"id":"P07","control_correct":true,"verdict":"完整","reason":"对正常JPEG重编码页面回答no_clear_evidence，没有把压缩作为内容修改证据。"},
+    {"id":"P08","matches":[{"prediction_index":0,"truth_field":"excise_other"},{"prediction_index":1,"truth_field":"excise_dedicated"}],"extra_claims":0,"verdict":"完整","reason":"正确绑定Excise taxes行两个不同基金列，列出37.2与67.3的互换。"},
+    {"id":"P09","single_supported":true,"verdict":"完整","reason":"正确读到内部交易成本0.0；4886.6加0.0与5009.1差122.5，关系核验成立。"},
+    {"id":"P10","control_correct":true,"verdict":"完整","reason":"changes为空，没有虚构相同内容之间的修改。"}
+  ]
+}

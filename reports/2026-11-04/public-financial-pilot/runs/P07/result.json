@@ -1,0 +1,29 @@
+{
+  "id": "P07",
+  "kind": "single",
+  "model": "gpt-6-luna",
+  "effort": "medium",
+  "status": "completed",
+  "exit_code": 0,
+  "elapsed_seconds": 51.683,
+  "answer": {
+    "decision": "no_clear_evidence",
+    "evidence": [],
+    "summary": "可见金额及表内加总关系未见可直接验证的业务内容异常；这不代表文件真实。"
+  },
+  "usage_per_turn": [
+    {
+      "input_tokens": 17759,
+      "cached_input_tokens": 0,
+      "cache_write_input_tokens": 0,
+      "output_tokens": 231,
+      "reasoning_output_tokens": 179
+    }
+  ],
+  "tool_events": [],
+  "turn_started_count": 1,
+  "turn_completed_count": 1,
+  "agent_message_count": 1,
+  "unparsed_event_lines": 0,
+  "completed_utc": "2026-11-04T03:44:34.341774+00:00"
+}

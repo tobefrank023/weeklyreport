@@ -1,0 +1,28 @@
+{
+  "id": "P10",
+  "kind": "paired",
+  "model": "gpt-6-luna",
+  "effort": "medium",
+  "status": "completed",
+  "exit_code": 0,
+  "elapsed_seconds": 50.932,
+  "answer": {
+    "changes": [],
+    "summary": "未发现可辨认的业务字段内容差异。"
+  },
+  "usage_per_turn": [
+    {
+      "input_tokens": 20612,
+      "cached_input_tokens": 0,
+      "cache_write_input_tokens": 0,
+      "output_tokens": 29,
+      "reasoning_output_tokens": 0
+    }
+  ],
+  "tool_events": [],
+  "turn_started_count": 1,
+  "turn_completed_count": 1,
+  "agent_message_count": 1,
+  "unparsed_event_lines": 0,
+  "completed_utc": "2026-11-04T03:46:18.681646+00:00"
+}

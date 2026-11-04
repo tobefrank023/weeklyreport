@@ -1,0 +1,41 @@
+{
+  "H01": {
+    "baseline_cash": "1187.7",
+    "balance_cash_after": "1188.4",
+    "cashflow_ending_unchanged": "1187.7",
+    "cash_delta": "0.7",
+    "loan_delta": "-0.7",
+    "sum_delta": "0.0",
+    "cross_page_difference": "0.7"
+  },
+  "H02": {
+    "other_fund_net_cost_relation": "0.0",
+    "total_net_cost_relation": "0.0",
+    "net_operating_relation": "0.0",
+    "other_netop_relation": "0.0",
+    "other_roll_forward": "0.0",
+    "total_roll_forward": "0.0",
+    "ending_position_columns": "0.0",
+    "cross_page_net_cost_difference": "7.0",
+    "cross_page_netop_difference": "7.0",
+    "cross_page_net_position_difference": "7.0"
+  },
+  "H04": {
+    "cash_cycle_sum_before": "3443.1",
+    "cash_cycle_sum_after": "3443.1",
+    "numeric_multiset_unchanged": "all nine values are permuted, with exact duplicate occurrences retained"
+  },
+  "H06": {
+    "legitimate_restatement": "2024 total assets 5662.1 in FY2024 report, 5683.8 in FY2025 Restated 2024 column",
+    "introduced_edits": 0,
+    "reason": "explicit restatement; different published editions are not declared identical accounting versions"
+  },
+  "H09": {
+    "numeric_cash_unchanged": "1187.7",
+    "cashflow_unit": "billions",
+    "balance_unit": "millions",
+    "unit_factor": 1000,
+    "balance_cash_in_billions": "1.1877",
+    "cross_page_difference_in_billions": "1186.5123"
+  }
+}

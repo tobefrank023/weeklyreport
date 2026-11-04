@@ -1,0 +1,63 @@
+{
+  "id": "P03",
+  "kind": "paired",
+  "model": "gpt-6-luna",
+  "effort": "medium",
+  "status": "completed",
+  "exit_code": 0,
+  "elapsed_seconds": 49.868,
+  "answer": {
+    "changes": [
+      {
+        "field": "Corporate income taxes — Funds other than those from Dedicated Collections",
+        "before": "534.9",
+        "after": "31.6",
+        "bbox_a": [
+          0.539,
+          0.299,
+          0.576,
+          0.311
+        ],
+        "bbox_b": [
+          0.539,
+          0.299,
+          0.576,
+          0.311
+        ]
+      },
+      {
+        "field": "Estate and gift taxes — Funds other than those from Dedicated Collections",
+        "before": "31.6",
+        "after": "534.9",
+        "bbox_a": [
+          0.539,
+          0.364,
+          0.575,
+          0.376
+        ],
+        "bbox_b": [
+          0.539,
+          0.364,
+          0.575,
+          0.376
+        ]
+      }
+    ],
+    "summary": "可辨认出两项收入行的数值在同一列互换。"
+  },
+  "usage_per_turn": [
+    {
+      "input_tokens": 20612,
+      "cached_input_tokens": 0,
+      "cache_write_input_tokens": 0,
+      "output_tokens": 166,
+      "reasoning_output_tokens": 0
+    }
+  ],
+  "tool_events": [],
+  "turn_started_count": 1,
+  "turn_completed_count": 1,
+  "agent_message_count": 1,
+  "unparsed_event_lines": 0,
+  "completed_utc": "2026-11-04T03:42:41.438371+00:00"
+}

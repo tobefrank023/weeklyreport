@@ -1,0 +1,47 @@
+                             FY 2024 FINANCIAL STATEMENTS                               62
+
+
+United States Government
+Statement of Operations and Changes in Net Position
+for the Year Ended September 30, 2023 (Consolidated)
+
+
+                                    Funds other than   Funds from
+                                           those from       Dedicated
+                                            Dedicated       Collections
+                                              Collections       (Note 22)     Eliminations    Total
+(In billions of dollars)                                                2023
+
+Revenue (Note 19):
+  Individual income tax and tax withholdings                    2,122.4            1,590.7                     -      3,713.1
+  Corporate income taxes                                     368.2                          -                      -       368.2
+  Excise taxes                                                 27.4              66.3                     -         93.7
+ Unemployment taxes                                             7.8              39.3                     -         47.1
+ Customs duties                                               78.1                0.1                     -         78.2
+  Estate and gift taxes                                          33.7                          -                      -         33.7
+  Other taxes and receipts                                      86.6              28.7                     -       115.3
+  Miscellaneous earned revenues                                16.3                          -                      -         16.3
+  Intra-governmental revenue                                                         -             106.0          (106.0)                 -
+  Total revenue                                              2,740.5            1,831.1          (106.0)     4,465.6
+
+
+Net Cost of Government Operations:
+  Net cost                                                    5,504.6            2,378.2                     -      7,882.8
+  Intra-governmental cost                                     106.0                          -          (106.0)                 -
+  Total net cost                                               5,610.6            2,378.2          (106.0)     7,882.8
+
+
+Intra-governmental transfers                                   (611.0)            611.0                     -                  -
+
+
+Net operating (cost)/revenue                                  (3,481.1)              63.9                     -      (3,417.2)
+
+
+Net position, beginning of period                           (37,757.6)           3,696.4                     -    (34,061.2)
+  Adjustments to beginning net position
+   Changes in accounting principles (Note 1.U)                       (1.0)                0.2                     -           (0.8)
+  Net operating (cost)/revenue                                  (3,481.1)              63.9                     -      (3,417.2)
+Net position, end of period                                  (41,239.7)           3,760.5                     -    (37,479.2)
+
+
+The accompanying notes are an integral part of these financial statements.

@@ -1,0 +1,584 @@
+[
+  {
+    "id": "P01",
+    "kind": "single",
+    "base_id": "B01",
+    "source_id": "TREASURY2024",
+    "physical_page": 14,
+    "printed_page": 65,
+    "pattern": "local amount edit with asset sum conflict",
+    "introduced_content_edit": true,
+    "expected_decision": "suspicious",
+    "expected_changes": [
+      {
+        "id": "cash",
+        "label": "Cash and other monetary assets (Note 2)",
+        "before": "1,177.7",
+        "bbox": [
+          434.9358825683594,
+          154.9350128173828,
+          465.01300048828125,
+          164.97901916503906
+        ],
+        "baseline": 163.08001708984375,
+        "fontsize": 9.0,
+        "color": 2301728,
+        "font_name": "ArialMT",
+        "after": "1,977.7",
+        "bbox_after_points": [
+          434.9358825683594,
+          154.9350128173828,
+          464.9637145996094,
+          164.97901916503906
+        ],
+        "bbox_a": [
+          0.7106795466803257,
+          0.19562501618356415,
+          0.759825164196538,
+          0.20830684238009983
+        ],
+        "bbox_b": [
+          0.7106795466803257,
+          0.19562501618356415,
+          0.7597446316987081,
+          0.20830684238009983
+        ]
+      }
+    ],
+    "arithmetic_check": {
+      "relation": "2024 asset-detail sum minus printed total assets",
+      "baseline_residual": "0.0",
+      "edited_residual": "800.0"
+    },
+    "annotation_scope": "exhaustive list of changes introduced by this generator on the selected page; no claim of business authenticity"
+  },
+  {
+    "id": "P02",
+    "kind": "single",
+    "base_id": "B01",
+    "source_id": "TREASURY2024",
+    "physical_page": 14,
+    "printed_page": 65,
+    "pattern": "content-preserving sham edit control",
+    "introduced_content_edit": false,
+    "expected_decision": "no_clear_evidence",
+    "expected_changes": [],
+    "arithmetic_check": null,
+    "annotation_scope": "exhaustive list of changes introduced by this generator on the selected page; no claim of business authenticity"
+  },
+  {
+    "id": "P03",
+    "kind": "paired",
+    "base_id": "B03",
+    "source_id": "TREASURY2024",
+    "physical_page": 10,
+    "printed_page": 61,
+    "pattern": "four-field row-value swap preserving local equations",
+    "introduced_content_edit": true,
+    "expected_decision": null,
+    "expected_changes": [
+      {
+        "id": "corporate_funds",
+        "label": "Corporate income taxes",
+        "before": "534.9",
+        "bbox": [
+          327.6585998535156,
+          237.3747100830078,
+          350.2953796386719,
+          247.41871643066406
+        ],
+        "baseline": 245.51971435546875,
+        "fontsize": 9.0,
+        "color": 2301728,
+        "font_name": "ArialMT",
+        "after": "31.6",
+        "bbox_after_points": [
+          332.6639709472656,
+          237.3747100830078,
+          350.1805725097656,
+          247.41871643066406
+        ],
+        "bbox_a": [
+          0.5353898690416922,
+          0.29971554303410075,
+          0.5723780713050194,
+          0.31239736923063643
+        ],
+        "bbox_b": [
+          0.5435685799791922,
+          0.29971554303410075,
+          0.5721904779571334,
+          0.31239736923063643
+        ]
+      },
+      {
+        "id": "corporate_total",
+        "label": "Corporate income taxes",
+        "before": "534.9",
+        "bbox": [
+          530.1478271484375,
+          237.3747100830078,
+          552.7846069335938,
+          247.41871643066406
+        ],
+        "baseline": 245.51971435546875,
+        "fontsize": 9.0,
+        "color": 2301728,
+        "font_name": "ArialMT",
+        "after": "31.6",
+        "bbox_after_points": [
+          535.1531982421875,
+          237.3747100830078,
+          552.6697998046875,
+          247.41871643066406
+        ],
+        "bbox_a": [
+          0.8662546195235907,
+          0.29971554303410075,
+          0.9032428217869178,
+          0.31239736923063643
+        ],
+        "bbox_b": [
+          0.8744333304610907,
+          0.29971554303410075,
+          0.9030552284390319,
+          0.31239736923063643
+        ]
+      },
+      {
+        "id": "estate_funds",
+        "label": "Estate and gift taxes",
+        "before": "31.6",
+        "bbox": [
+          332.6796875,
+          288.3731384277344,
+          350.269287109375,
+          298.4171142578125
+        ],
+        "baseline": 296.51812744140625,
+        "fontsize": 9.0,
+        "color": 2301728,
+        "font_name": "ArialMT",
+        "after": "534.9",
+        "bbox_after_points": [
+          327.67431640625,
+          288.3731384277344,
+          350.1962890625,
+          298.4171142578125
+        ],
+        "bbox_a": [
+          0.543594260620915,
+          0.3641074980148161,
+          0.5723354364532272,
+          0.3767892856790562
+        ],
+        "bbox_b": [
+          0.535415549683415,
+          0.3641074980148161,
+          0.5722161585988562,
+          0.3767892856790562
+        ]
+      },
+      {
+        "id": "estate_total",
+        "label": "Estate and gift taxes",
+        "before": "31.6",
+        "bbox": [
+          535.1526489257812,
+          288.3731384277344,
+          552.7422485351562,
+          298.4171142578125
+        ],
+        "baseline": 296.51812744140625,
+        "fontsize": 9.0,
+        "color": 2301728,
+        "font_name": "ArialMT",
+        "after": "534.9",
+        "bbox_after_points": [
+          530.1472778320312,
+          288.3731384277344,
+          552.6692504882812,
+          298.4171142578125
+        ],
+        "bbox_a": [
+          0.8744324328852635,
+          0.3641074980148161,
+          0.9031736087175756,
+          0.3767892856790562
+        ],
+        "bbox_b": [
+          0.8662537219477635,
+          0.3641074980148161,
+          0.9030543308632046,
+          0.3767892856790562
+        ]
+      }
+    ],
+    "arithmetic_check": {
+      "relation": "corporate and estate rows exchange values in two matching columns",
+      "baseline_pair_sum": "566.5",
+      "edited_pair_sum": "566.5",
+      "scope": "row equations and affected column sums preserved; not full-document certification"
+    },
+    "annotation_scope": "exhaustive list of changes introduced by this generator on the selected page; no claim of business authenticity"
+  },
+  {
+    "id": "P04",
+    "kind": "paired",
+    "base_id": "B02",
+    "source_id": "TREASURY2025",
+    "physical_page": 14,
+    "printed_page": 65,
+    "pattern": "two-field compensating asset edit preserving total",
+    "introduced_content_edit": true,
+    "expected_decision": null,
+    "expected_changes": [
+      {
+        "id": "cash",
+        "label": "Cash and other monetary assets (Note 2)",
+        "before": "1,187.7",
+        "bbox": [
+          435.0,
+          153.7200164794922,
+          465.0843200683594,
+          166.00502014160156
+        ],
+        "baseline": 163.08001708984375,
+        "fontsize": 9.0,
+        "color": 0,
+        "font_name": "ArialMT",
+        "after": "1,287.7",
+        "bbox_after_points": [
+          435.0,
+          153.7200164794922,
+          465.02783203125,
+          166.00502014160156
+        ],
+        "bbox_a": [
+          0.7107843137254902,
+          0.19409092989834872,
+          0.7599416994581035,
+          0.20960229815858783
+        ],
+        "bbox_b": [
+          0.7107843137254902,
+          0.19409092989834872,
+          0.7598493987438726,
+          0.20960229815858783
+        ]
+      },
+      {
+        "id": "loans",
+        "label": "Loans receivable, net (Note 4)",
+        "before": "2,002.5",
+        "bbox": [
+          435.0,
+          179.16001892089844,
+          465.0843200683594,
+          191.4450225830078
+        ],
+        "baseline": 188.52001953125,
+        "fontsize": 9.0,
+        "color": 0,
+        "font_name": "ArialMT",
+        "after": "1,902.5",
+        "bbox_after_points": [
+          435.0,
+          179.16001892089844,
+          465.02783203125,
+          191.4450225830078
+        ],
+        "bbox_a": [
+          0.7107843137254902,
+          0.2262121451021445,
+          0.7599416994581035,
+          0.2417235133623836
+        ],
+        "bbox_b": [
+          0.7107843137254902,
+          0.2262121451021445,
+          0.7598493987438726,
+          0.2417235133623836
+        ]
+      }
+    ],
+    "arithmetic_check": {
+      "relation": "cash +100 and loans -100; total assets unchanged",
+      "baseline_residual": "0.0",
+      "edited_residual": "0.0"
+    },
+    "annotation_scope": "exhaustive list of changes introduced by this generator on the selected page; no claim of business authenticity"
+  },
+  {
+    "id": "P05",
+    "kind": "single",
+    "base_id": "B04",
+    "source_id": "TREASURY2025",
+    "physical_page": 10,
+    "printed_page": 61,
+    "pattern": "single-digit edit in total revenue",
+    "introduced_content_edit": true,
+    "expected_decision": "suspicious",
+    "expected_changes": [
+      {
+        "id": "revenue_total",
+        "label": "Total revenue",
+        "before": "5,244.6",
+        "bbox": [
+          522.719970703125,
+          338.1600036621094,
+          552.8042602539062,
+          350.4449768066406
+        ],
+        "baseline": 347.5199890136719,
+        "fontsize": 9.0,
+        "color": 0,
+        "font_name": "ArialMT",
+        "after": "5,344.6",
+        "bbox_after_points": [
+          522.719970703125,
+          338.1600036621094,
+          552.747802734375,
+          350.4449768066406
+        ],
+        "bbox_a": [
+          0.8541175991881127,
+          0.42696970159357245,
+          0.9032749350554024,
+          0.44248103132151595
+        ],
+        "bbox_b": [
+          0.8541175991881127,
+          0.42696970159357245,
+          0.9031826842064951,
+          0.44248103132151595
+        ]
+      }
+    ],
+    "arithmetic_check": {
+      "relation": "revenue row funds 3376.7+1980.7-112.8 minus printed total",
+      "baseline_residual": "0.0",
+      "edited_residual": "-100.0"
+    },
+    "annotation_scope": "exhaustive list of changes introduced by this generator on the selected page; no claim of business authenticity"
+  },
+  {
+    "id": "P06",
+    "kind": "paired",
+    "base_id": "B01",
+    "source_id": "TREASURY2024",
+    "physical_page": 14,
+    "printed_page": 65,
+    "pattern": "digit transposition in loan guarantees",
+    "introduced_content_edit": true,
+    "expected_decision": null,
+    "expected_changes": [
+      {
+        "id": "guarantees",
+        "label": "Loan guarantees (Note 4)",
+        "before": "27.9",
+        "bbox": [
+          447.4532470703125,
+          193.2154083251953,
+          465.0509338378906,
+          203.25941467285156
+        ],
+        "baseline": 201.36041259765625,
+        "fontsize": 9.0,
+        "color": 2301728,
+        "font_name": "ArialMT",
+        "after": "72.9",
+        "bbox_after_points": [
+          447.4532470703125,
+          193.2154083251953,
+          464.9698486328125,
+          203.25941467285156
+        ],
+        "bbox_a": [
+          0.7311327566508374,
+          0.24395884889544864,
+          0.759887146793939,
+          0.2566406750919843
+        ],
+        "bbox_b": [
+          0.7311327566508374,
+          0.24395884889544864,
+          0.7597546546287786,
+          0.2566406750919843
+        ]
+      }
+    ],
+    "arithmetic_check": null,
+    "annotation_scope": "exhaustive list of changes introduced by this generator on the selected page; no claim of business authenticity"
+  },
+  {
+    "id": "P07",
+    "kind": "single",
+    "base_id": "B02",
+    "source_id": "TREASURY2025",
+    "physical_page": 14,
+    "printed_page": 65,
+    "pattern": "benign JPEG re-encoding control",
+    "introduced_content_edit": false,
+    "expected_decision": "no_clear_evidence",
+    "expected_changes": [],
+    "arithmetic_check": null,
+    "annotation_scope": "exhaustive list of changes introduced by this generator on the selected page; no claim of business authenticity"
+  },
+  {
+    "id": "P08",
+    "kind": "paired",
+    "base_id": "B04",
+    "source_id": "TREASURY2025",
+    "physical_page": 10,
+    "printed_page": 61,
+    "pattern": "two-column value swap preserving row total",
+    "introduced_content_edit": true,
+    "expected_decision": null,
+    "expected_changes": [
+      {
+        "id": "excise_other",
+        "label": "Excise taxes",
+        "before": "37.2",
+        "bbox": [
+          332.760009765625,
+          261.72003173828125,
+          350.364013671875,
+          274.0050048828125
+        ],
+        "baseline": 271.08001708984375,
+        "fontsize": 9.0,
+        "color": 0,
+        "font_name": "ArialMT",
+        "after": "67.3",
+        "bbox_after_points": [
+          332.760009765625,
+          261.72003173828125,
+          350.276611328125,
+          274.0050048828125
+        ],
+        "bbox_a": [
+          0.543725506152982,
+          0.3304545855281329,
+          0.5724902184180964,
+          0.3459659152560764
+        ],
+        "bbox_b": [
+          0.543725506152982,
+          0.3304545855281329,
+          0.5723474041309232,
+          0.3459659152560764
+        ]
+      },
+      {
+        "id": "excise_dedicated",
+        "label": "Excise taxes",
+        "before": "67.3",
+        "bbox": [
+          412.9200134277344,
+          261.72003173828125,
+          430.5240173339844,
+          274.0050048828125
+        ],
+        "baseline": 271.08001708984375,
+        "fontsize": 9.0,
+        "color": 0,
+        "font_name": "ArialMT",
+        "after": "37.2",
+        "bbox_after_points": [
+          412.9200134277344,
+          261.72003173828125,
+          430.4366149902344,
+          274.0050048828125
+        ],
+        "bbox_a": [
+          0.6747059042936836,
+          0.3304545855281329,
+          0.703470616558798,
+          0.3459659152560764
+        ],
+        "bbox_b": [
+          0.6747059042936836,
+          0.3304545855281329,
+          0.7033278022716248,
+          0.3459659152560764
+        ]
+      }
+    ],
+    "arithmetic_check": {
+      "relation": "excise taxes 37.2 and 67.3 swap columns; row total preserved",
+      "baseline_row_sum": "104.5",
+      "edited_row_sum": "104.5",
+      "column_delta_other": "30.1",
+      "column_delta_dedicated": "-30.1"
+    },
+    "annotation_scope": "exhaustive list of changes introduced by this generator on the selected page; no claim of business authenticity"
+  },
+  {
+    "id": "P09",
+    "kind": "single",
+    "base_id": "B03",
+    "source_id": "TREASURY2024",
+    "physical_page": 10,
+    "printed_page": 61,
+    "pattern": "nonzero-to-zero edit with subtotal conflict",
+    "introduced_content_edit": true,
+    "expected_decision": "suspicious",
+    "expected_changes": [
+      {
+        "id": "intragov_cost",
+        "label": "Intra-governmental cost",
+        "before": "122.5",
+        "bbox": [
+          327.7359619140625,
+          390.3750915527344,
+          350.3979797363281,
+          400.4190673828125
+        ],
+        "baseline": 398.52008056640625,
+        "fontsize": 9.0,
+        "color": 2301728,
+        "font_name": "ArialMT",
+        "after": "0.0",
+        "bbox_after_points": [
+          337.7467041015625,
+          390.3750915527344,
+          350.2579345703125,
+          400.4190673828125
+        ],
+        "bbox_a": [
+          0.535516277637357,
+          0.49289784286961413,
+          0.572545718523412,
+          0.5055796305338541
+        ],
+        "bbox_b": [
+          0.551873699512357,
+          0.49289784286961413,
+          0.5723168865527982,
+          0.5055796305338541
+        ]
+      }
+    ],
+    "arithmetic_check": {
+      "relation": "other-fund net cost 4886.6 + intragovernmental cost minus total 5009.1",
+      "baseline_residual": "0.0",
+      "edited_residual": "-122.5"
+    },
+    "annotation_scope": "exhaustive list of changes introduced by this generator on the selected page; no claim of business authenticity"
+  },
+  {
+    "id": "P10",
+    "kind": "paired",
+    "base_id": "B02",
+    "source_id": "TREASURY2025",
+    "physical_page": 14,
+    "printed_page": 65,
+    "pattern": "identical-content pair control",
+    "introduced_content_edit": false,
+    "expected_decision": null,
+    "expected_changes": [],
+    "arithmetic_check": null,
+    "annotation_scope": "exhaustive list of changes introduced by this generator on the selected page; no claim of business authenticity"
+  }
+]

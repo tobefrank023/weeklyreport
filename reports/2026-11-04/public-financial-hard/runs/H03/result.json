@@ -1,0 +1,181 @@
+{
+  "id": "H03",
+  "kind": "paired",
+  "model": "gpt-6-luna",
+  "effort": "medium",
+  "status": "completed",
+  "exit_code": 0,
+  "elapsed_seconds": 67.942,
+  "answer": {
+    "changes": [
+      {
+        "field": "Statement of Operations and Changes in Net Position — Net cost, funds other than those from Dedicated Collections",
+        "before": "4,585.0",
+        "after": "4,592.0",
+        "page_a": 2,
+        "page_b": 2,
+        "bbox_a": [
+          0.516,
+          0.478,
+          0.578,
+          0.493
+        ],
+        "bbox_b": [
+          0.516,
+          0.478,
+          0.578,
+          0.493
+        ]
+      },
+      {
+        "field": "Statement of Operations and Changes in Net Position — Net cost, Total",
+        "before": "7,337.8",
+        "after": "7,344.8",
+        "page_a": 2,
+        "page_b": 2,
+        "bbox_a": [
+          0.855,
+          0.478,
+          0.91,
+          0.493
+        ],
+        "bbox_b": [
+          0.855,
+          0.478,
+          0.91,
+          0.493
+        ]
+      },
+      {
+        "field": "Statement of Operations and Changes in Net Position — Total net cost, funds other than those from Dedicated Collections",
+        "before": "4,697.8",
+        "after": "4,704.8",
+        "page_a": 2,
+        "page_b": 2,
+        "bbox_a": [
+          0.516,
+          0.512,
+          0.578,
+          0.527
+        ],
+        "bbox_b": [
+          0.516,
+          0.512,
+          0.578,
+          0.527
+        ]
+      },
+      {
+        "field": "Statement of Operations and Changes in Net Position — Total net cost, Total",
+        "before": "7,337.8",
+        "after": "7,344.8",
+        "page_a": 2,
+        "page_b": 2,
+        "bbox_a": [
+          0.855,
+          0.512,
+          0.91,
+          0.527
+        ],
+        "bbox_b": [
+          0.855,
+          0.512,
+          0.91,
+          0.527
+        ]
+      },
+      {
+        "field": "Statement of Operations and Changes in Net Position — Net operating (cost)/revenue, funds other than those from Dedicated Collections",
+        "before": "(1,931.8)",
+        "after": "(1,938.8)",
+        "page_a": 2,
+        "page_b": 2,
+        "bbox_a": [
+          0.507,
+          0.576,
+          0.578,
+          0.591
+        ],
+        "bbox_b": [
+          0.507,
+          0.576,
+          0.578,
+          0.591
+        ]
+      },
+      {
+        "field": "Statement of Operations and Changes in Net Position — Net operating (cost)/revenue, Total",
+        "before": "(2,093.2)",
+        "after": "(2,100.2)",
+        "page_a": 2,
+        "page_b": 2,
+        "bbox_a": [
+          0.846,
+          0.576,
+          0.91,
+          0.591
+        ],
+        "bbox_b": [
+          0.846,
+          0.576,
+          0.91,
+          0.591
+        ]
+      },
+      {
+        "field": "Statement of Operations and Changes in Net Position — Net position, end of period, funds other than those from Dedicated Collections",
+        "before": "(45,269.3)",
+        "after": "(45,276.3)",
+        "page_a": 2,
+        "page_b": 2,
+        "bbox_a": [
+          0.507,
+          0.674,
+          0.578,
+          0.689
+        ],
+        "bbox_b": [
+          0.507,
+          0.674,
+          0.578,
+          0.689
+        ]
+      },
+      {
+        "field": "Statement of Operations and Changes in Net Position — Net position, end of period, Total",
+        "before": "(41,723.4)",
+        "after": "(41,730.4)",
+        "page_a": 2,
+        "page_b": 2,
+        "bbox_a": [
+          0.846,
+          0.674,
+          0.91,
+          0.689
+        ],
+        "bbox_b": [
+          0.846,
+          0.674,
+          0.91,
+          0.689
+        ]
+      }
+    ],
+    "summary": "版本B在第2页的4行、2列金额共8处与版本A不同；其余可见页面未发现业务内容差异。"
+  },
+  "usage_per_turn": [
+    {
+      "input_tokens": 38365,
+      "cached_input_tokens": 0,
+      "cache_write_input_tokens": 0,
+      "output_tokens": 1043,
+      "reasoning_output_tokens": 283
+    }
+  ],
+  "tool_events": [],
+  "turn_started_count": 1,
+  "turn_completed_count": 1,
+  "agent_message_count": 1,
+  "unparsed_event_lines": 0,
+  "completed_utc": "2026-11-04T04:04:54.317306+00:00"
+}

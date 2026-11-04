@@ -1,0 +1,50 @@
+                             FY 2025 FINANCIAL STATEMENTS                              66
+
+United States Government
+Statements of Long-Term Fiscal Projections (Note 24)
+Present Value of 75-Year Projections as of September 30, 2025, and 20241
+
+
+                                                In trillions of dollars               Percent of GDP2
+                                      2025      2024   Change      2025      2024   Change
+Receipts:
+    Social Security payroll taxes                    85.1        84.2          0.9           4.2          4.2                -
+   Medicare payroll taxes                         29.0        28.7          0.3           1.4          1.4                -
+    Individual income taxes                      200.0       223.6        (23.6)          9.8        11.2          (1.4)
+    Corporation income taxes                      23.9        27.0          (3.1)          1.2          1.3          (0.2)
+   Customs duties3                              24.0                 -        24.0           1.2                -          1.2
+   Other receipts4                                20.6        23.0          (2.4)          1.0          1.1          (0.1)
+Total receipts                                  382.6       386.5          (3.9)        18.7        19.3          (0.6)
+
+Non-interest spending:
+    Social Security                              122.0       118.5          3.6          6.0          5.9          0.1
+   Medicare Part A5                              38.5        37.5          1.1          1.9          1.9                 -
+   Medicare Parts B & D6                         61.7        54.7          7.0          3.0          2.7          0.3
+   Medicaid                                     51.2        52.7          (1.5)         2.5          2.6          (0.1)
+   Other mandatory                              63.9        66.6          (2.7)         3.1          3.3          (0.2)
+   Defense discretionary                         60.3        60.5          (0.2)         3.0          3.0          (0.1)
+   Non-defense discretionary                     64.4        68.8          (4.3)         3.2          3.4          (0.3)
+Total non-interest spending                      462.2       459.2          3.0        22.6        22.9          (0.3)
+
+Receipts less non-interest spending              (79.6)        (72.7)          (6.9)          (3.9)          (3.6)          (0.3)
+
+Fiscal gap7                                                                                         (4.7)          (4.3)          (0.3)
+
+1 75-year present value projections for 2025 are as of 9/30/2025 for FYs 2026-2100; projections for 2024 are as of 9/30/2024 for FYs 2025-
+  2099.
+2 The 75-year present value of nominal GDP, which drives the calculations above is $2,043.6 trillion starting in FY 2026 and was
+  $2,002.6 trillion starting in FY 2025.
+3 FY 2025 is the first year where customs duties is an independent line item. The prior year’s SLTFP included customs duties as a part of the
+  other receipts. The non-entry of data in customs duties for FY 2024 is because they are still accounted for in the other receipts line. The
+  “change” columns do not account for FY 2024 customs duties – those are accounted for in the other receipts line.
+4 This item includes customs duties in FY 2024, but not FY 2025. For this line, the “change” columns are calculated as (FY 2025’s other
+   receipts, excluding customs duties) minus (FY 2024’s other receipts, including customs duties).
+5 Represents portions of Medicare supported by payroll taxes.
+6 Represents portions of Medicare supported by general revenues. Consistent with the Budget, outlays for Parts B & D are presented net of
+  premiums.
+7 To prevent the debt-to-GDP ratio from rising over the next 75-years, a combination of non-interest spending reductions and receipt
+  increases that amounts to 4.7 percent of GDP on average is needed (4.3 percent of GDP on average in 2024). See Note 24—Long-Term
+   Fiscal Projections.
+
+Totals may not equal the sum of components due to rounding.
+The accompanying notes are an integral part of these financial statements.

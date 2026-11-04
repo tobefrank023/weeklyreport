@@ -1,0 +1,162 @@
+{
+  "id": "H07",
+  "kind": "paired",
+  "model": "gpt-6-luna",
+  "effort": "medium",
+  "status": "completed",
+  "exit_code": 0,
+  "elapsed_seconds": 57.282,
+  "answer": {
+    "changes": [
+      {
+        "field": "Statement of Net Cost, Pension Benefit Guaranty Corporation — Gross Cost",
+        "before": "55.0",
+        "after": "55.8",
+        "page_a": 1,
+        "page_b": 1,
+        "bbox_a": [
+          0.512,
+          0.564,
+          0.539,
+          0.574
+        ],
+        "bbox_b": [
+          0.512,
+          0.564,
+          0.539,
+          0.574
+        ]
+      },
+      {
+        "field": "Statement of Net Cost, Pension Benefit Guaranty Corporation — Subtotal",
+        "before": "38.0",
+        "after": "38.8",
+        "page_a": 1,
+        "page_b": 1,
+        "bbox_a": [
+          0.656,
+          0.564,
+          0.683,
+          0.574
+        ],
+        "bbox_b": [
+          0.656,
+          0.564,
+          0.683,
+          0.574
+        ]
+      },
+      {
+        "field": "Statement of Net Cost, Pension Benefit Guaranty Corporation — Net Cost",
+        "before": "38.0",
+        "after": "38.8",
+        "page_a": 1,
+        "page_b": 1,
+        "bbox_a": [
+          0.86,
+          0.564,
+          0.887,
+          0.574
+        ],
+        "bbox_b": [
+          0.86,
+          0.564,
+          0.887,
+          0.574
+        ]
+      },
+      {
+        "field": "Balance Sheets, Accounts receivable, net — 2024",
+        "before": "278.7",
+        "after": "278.8",
+        "page_a": 2,
+        "page_b": 2,
+        "bbox_a": [
+          0.72,
+          0.216,
+          0.762,
+          0.224
+        ],
+        "bbox_b": [
+          0.72,
+          0.216,
+          0.762,
+          0.224
+        ]
+      },
+      {
+        "field": "Balance Sheets, Loan guarantees — 2024",
+        "before": "27.9",
+        "after": "27.8",
+        "page_a": 2,
+        "page_b": 2,
+        "bbox_a": [
+          0.724,
+          0.232,
+          0.76,
+          0.24
+        ],
+        "bbox_b": [
+          0.724,
+          0.232,
+          0.76,
+          0.24
+        ]
+      },
+      {
+        "field": "Balance Sheets, Securities and Exchange Commission — 2023 Subtotal",
+        "before": "(0.2)",
+        "after": "0.2",
+        "page_a": 2,
+        "page_b": 2,
+        "bbox_a": [
+          0.652,
+          0.644,
+          0.689,
+          0.653
+        ],
+        "bbox_b": [
+          0.652,
+          0.644,
+          0.689,
+          0.653
+        ]
+      },
+      {
+        "field": "Balance Sheets, Securities and Exchange Commission — 2023 Net Cost",
+        "before": "(0.2)",
+        "after": "0.2",
+        "page_a": 2,
+        "page_b": 2,
+        "bbox_a": [
+          0.86,
+          0.644,
+          0.888,
+          0.653
+        ],
+        "bbox_b": [
+          0.86,
+          0.644,
+          0.888,
+          0.653
+        ]
+      }
+    ],
+    "summary": "共发现7处金额差异，均位于对应报表行的指定列。"
+  },
+  "usage_per_turn": [
+    {
+      "input_tokens": 26621,
+      "cached_input_tokens": 12544,
+      "cache_write_input_tokens": 0,
+      "output_tokens": 577,
+      "reasoning_output_tokens": 0
+    }
+  ],
+  "tool_events": [],
+  "turn_started_count": 1,
+  "turn_completed_count": 1,
+  "agent_message_count": 1,
+  "unparsed_event_lines": 0,
+  "completed_utc": "2026-11-04T04:06:51.371202+00:00"
+}

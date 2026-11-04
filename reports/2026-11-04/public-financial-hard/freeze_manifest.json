@@ -1,0 +1,29 @@
+{
+  "frozen_before_solver_calls": true,
+  "files": {
+    "questions_manifest.json": "91875e5ea212729ae31541dbca0e0d6d53df413c13b9bd219d02b6cadff07c03",
+    "private/ground_truth.json": "294ad846ee9e3fb28aa9b35afaec6747f665fa41ca92434707dc1e6efaca0e8d",
+    "private/specifications.json": "65bc06e68d70c1cbfdfe3958c45fbf392e44a9c058fe1f9c0afda642757d2ae0",
+    "grading_protocol.json": "ef73a797c5ce9a825c911ebd560568a3e918b3b7c03b32dc93bfe61938025188",
+    "prepare.py": "3804ef2e5f67d05a28fb2c862d250b7c388ecc8fafeba042c41d7a9dac16207a",
+    "run_luna.py": "44493a355fc29fdbdd84ddd7289a545aa9d5e82e40f4337af87696ad68b09f8e"
+  },
+  "questions": 10,
+  "single": 5,
+  "paired": 5,
+  "input_images": 46,
+  "source_documents": 2,
+  "source_publishers": 1,
+  "base_pages": 7,
+  "max_edge": 1800,
+  "content_edited_questions": 7,
+  "question_level_field_edits": 50,
+  "paired_gold_fields": 37,
+  "important_dependency": "H02 and H03 share one edited version in different tasks; not independent samples",
+  "hypotheses": [
+    "Page-local equations can hold while cross-page duplicates disagree.",
+    "Exact enumeration becomes harder with repeated cells, page permutation and many changes.",
+    "Units/signs/year labels require more than numeric-set comparison.",
+    "Legitimate financial restatement should not be treated as tampering."
+  ]
+}

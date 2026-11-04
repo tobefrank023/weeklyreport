@@ -1,0 +1,76 @@
+{
+  "questions_verified": 10,
+  "image_attachments_verified": 46,
+  "assets_verified": 21,
+  "edited_asset_pixel_checks": [
+    {
+      "asset": "S25P14__H01",
+      "edited_fields": 2,
+      "changed_pixels": 471,
+      "outside_annotated_union_with_4px_margin": 0
+    },
+    {
+      "asset": "S25P10__coupled",
+      "edited_fields": 10,
+      "changed_pixels": 2519,
+      "outside_annotated_union_with_4px_margin": 0
+    },
+    {
+      "asset": "S25P08__H04",
+      "edited_fields": 2,
+      "changed_pixels": 734,
+      "outside_annotated_union_with_4px_margin": 0
+    },
+    {
+      "asset": "S25P10__H04",
+      "edited_fields": 4,
+      "changed_pixels": 1797,
+      "outside_annotated_union_with_4px_margin": 0
+    },
+    {
+      "asset": "S25P14__H04",
+      "edited_fields": 3,
+      "changed_pixels": 1539,
+      "outside_annotated_union_with_4px_margin": 0
+    },
+    {
+      "asset": "S24P09__H07",
+      "edited_fields": 5,
+      "changed_pixels": 1125,
+      "outside_annotated_union_with_4px_margin": 0
+    },
+    {
+      "asset": "S24P14__H07",
+      "edited_fields": 2,
+      "changed_pixels": 242,
+      "outside_annotated_union_with_4px_margin": 0
+    },
+    {
+      "asset": "S25P14__H09",
+      "edited_fields": 1,
+      "changed_pixels": 1654,
+      "outside_annotated_union_with_4px_margin": 0
+    },
+    {
+      "asset": "S25P08__H10",
+      "edited_fields": 3,
+      "changed_pixels": 1905,
+      "outside_annotated_union_with_4px_margin": 0
+    },
+    {
+      "asset": "S25P10__H10",
+      "edited_fields": 4,
+      "changed_pixels": 2008,
+      "outside_annotated_union_with_4px_margin": 0
+    },
+    {
+      "asset": "S25P14__H10",
+      "edited_fields": 4,
+      "changed_pixels": 2003,
+      "outside_annotated_union_with_4px_margin": 0
+    }
+  ],
+  "freeze_integrity": true,
+  "native_text_and_field_readback": "all 21 assets checked during generation",
+  "scope": "source values, text preservation, intended raster regions and input hashes; no independent authenticity or realism certification"
+}

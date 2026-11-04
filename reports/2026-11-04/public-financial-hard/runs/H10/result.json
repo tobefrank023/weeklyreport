@@ -1,0 +1,238 @@
+{
+  "id": "H10",
+  "kind": "paired",
+  "model": "gpt-6-luna",
+  "effort": "medium",
+  "status": "completed",
+  "exit_code": 0,
+  "elapsed_seconds": 72.611,
+  "answer": {
+    "changes": [
+      {
+        "field": "Statement of Net Cost — page header fiscal year",
+        "before": "FY 2025 FINANCIAL STATEMENTS",
+        "after": "FY 2026 FINANCIAL STATEMENTS",
+        "page_a": 1,
+        "page_b": 1,
+        "bbox_a": [
+          0.36,
+          0.045,
+          0.61,
+          0.059
+        ],
+        "bbox_b": [
+          0.36,
+          0.045,
+          0.61,
+          0.059
+        ]
+      },
+      {
+        "field": "Statement of Net Cost — statement year in title",
+        "before": "September 30, 2025",
+        "after": "September 30, 2026",
+        "page_a": 1,
+        "page_b": 1,
+        "bbox_a": [
+          0.094,
+          0.122,
+          0.426,
+          0.137
+        ],
+        "bbox_b": [
+          0.094,
+          0.122,
+          0.426,
+          0.137
+        ]
+      },
+      {
+        "field": "Statement of Net Cost — units label",
+        "before": "(In billions of dollars)",
+        "after": "(In millions of dollars)",
+        "page_a": 1,
+        "page_b": 1,
+        "bbox_a": [
+          0.094,
+          0.169,
+          0.236,
+          0.182
+        ],
+        "bbox_b": [
+          0.094,
+          0.169,
+          0.244,
+          0.182
+        ]
+      },
+      {
+        "field": "Statement of Operations and Changes in Net Position — page header fiscal year",
+        "before": "FY 2025 FINANCIAL STATEMENTS",
+        "after": "FY 2026 FINANCIAL STATEMENTS",
+        "page_a": 2,
+        "page_b": 2,
+        "bbox_a": [
+          0.36,
+          0.045,
+          0.61,
+          0.059
+        ],
+        "bbox_b": [
+          0.36,
+          0.045,
+          0.61,
+          0.059
+        ]
+      },
+      {
+        "field": "Statement of Operations and Changes in Net Position — statement year in title",
+        "before": "September 30, 2025",
+        "after": "September 30, 2026",
+        "page_a": 2,
+        "page_b": 2,
+        "bbox_a": [
+          0.088,
+          0.126,
+          0.548,
+          0.14
+        ],
+        "bbox_b": [
+          0.088,
+          0.126,
+          0.548,
+          0.14
+        ]
+      },
+      {
+        "field": "Statement of Operations and Changes in Net Position — units label",
+        "before": "(In billions of dollars)",
+        "after": "(In millions of dollars)",
+        "page_a": 2,
+        "page_b": 2,
+        "bbox_a": [
+          0.088,
+          0.233,
+          0.23,
+          0.246
+        ],
+        "bbox_b": [
+          0.088,
+          0.233,
+          0.238,
+          0.246
+        ]
+      },
+      {
+        "field": "Statement of Operations and Changes in Net Position — year above statement columns",
+        "before": "2025",
+        "after": "2026",
+        "page_a": 2,
+        "page_b": 2,
+        "bbox_a": [
+          0.652,
+          0.234,
+          0.685,
+          0.247
+        ],
+        "bbox_b": [
+          0.652,
+          0.234,
+          0.685,
+          0.247
+        ]
+      },
+      {
+        "field": "Balance Sheets — page header fiscal year",
+        "before": "FY 2025 FINANCIAL STATEMENTS",
+        "after": "FY 2026 FINANCIAL STATEMENTS",
+        "page_a": 3,
+        "page_b": 3,
+        "bbox_a": [
+          0.36,
+          0.045,
+          0.61,
+          0.059
+        ],
+        "bbox_b": [
+          0.36,
+          0.045,
+          0.61,
+          0.059
+        ]
+      },
+      {
+        "field": "Balance Sheets — statement date in title",
+        "before": "September 30, 2025, and 2024",
+        "after": "September 30, 2026, and 2024",
+        "page_a": 3,
+        "page_b": 3,
+        "bbox_a": [
+          0.088,
+          0.122,
+          0.389,
+          0.137
+        ],
+        "bbox_b": [
+          0.088,
+          0.122,
+          0.389,
+          0.137
+        ]
+      },
+      {
+        "field": "Balance Sheets — units label",
+        "before": "(In billions of dollars)",
+        "after": "(In millions of dollars)",
+        "page_a": 3,
+        "page_b": 3,
+        "bbox_a": [
+          0.088,
+          0.154,
+          0.232,
+          0.168
+        ],
+        "bbox_b": [
+          0.088,
+          0.154,
+          0.24,
+          0.168
+        ]
+      },
+      {
+        "field": "Balance Sheets — current-year amount column heading",
+        "before": "2025",
+        "after": "2026",
+        "page_a": 3,
+        "page_b": 3,
+        "bbox_a": [
+          0.724,
+          0.154,
+          0.765,
+          0.167
+        ],
+        "bbox_b": [
+          0.724,
+          0.154,
+          0.765,
+          0.167
+        ]
+      }
+    ],
+    "summary": "三页报表的页眉财年均由2025改为2026；各报表标题或年度栏中的对应年份也更新，单位标签由“billions”改为“millions”。可辨认的金额数值未见变化。"
+  },
+  "usage_per_turn": [
+    {
+      "input_tokens": 32493,
+      "cached_input_tokens": 0,
+      "cache_write_input_tokens": 0,
+      "output_tokens": 1325,
+      "reasoning_output_tokens": 361
+    }
+  ],
+  "tool_events": [],
+  "turn_started_count": 1,
+  "turn_completed_count": 1,
+  "agent_message_count": 1,
+  "unparsed_event_lines": 0,
+  "completed_utc": "2026-11-04T04:08:46.278201+00:00"
+}

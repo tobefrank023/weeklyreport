@@ -1,0 +1,12 @@
+{
+  "purpose": "Diagnostic content-completion score following the earlier private-material pilot; not an official benchmark score",
+  "question_weight": 10,
+  "single_edited": "10 only if the decision is suspicious and at least one directly verifiable relation affected by the introduced edit is correctly identified; otherwise 0",
+  "single_control": "10 for no_clear_evidence with no false anomaly claim; otherwise 0. Insufficient is reported as abstention and receives 0 completion points",
+  "paired_edited": "10 times the fraction of introduced fields with correct before/after values and correct row/column binding. Each cell is a separate field even when its value repeats in another column",
+  "paired_control": "10 only if no business-field changes are reported; otherwise 0",
+  "extra_claims": "Record separately; the recall-based content score does not penalize extra paired claims. Also report field precision and complete-question rate",
+  "boxes": "Bounding boxes are saved and may support adjudication; no box accuracy score is included in the primary content-completion score",
+  "adjudication": "Root Codex manually checks answers against deterministic generator truth and decimal arithmetic; this is not independent expert annotation",
+  "comparability": "The public pilot has different sources, image resolution and task mix from the earlier 30-question pilot; do not infer a model improvement from raw score differences"
+}

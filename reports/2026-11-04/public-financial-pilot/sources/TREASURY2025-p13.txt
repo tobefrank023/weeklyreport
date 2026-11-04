@@ -1,0 +1,53 @@
+                             FY 2025 FINANCIAL STATEMENTS                              64
+
+United States Government
+Statements of Changes in Cash Balance from Budget and Other Activities
+for the Years Ended September 30, 2025, and 2024
+                                                                                        Restated
+(In billions of dollars)                                                             2025       2024
+Cash flow from budget activities:
+  Total budget receipts1                                                                         5,234.6        4,918.1
+  Total budget outlays1                                                                              (7,010.0)       (6,734.9)
+ Budget deficit1                                                                                    (1,775.4)       (1,816.8)
+Adjustments for non-cash outlays included in the budget:
+Non-cash flow amounts in the budget related to federal debt:
+ Accrued interest                                                                            634.0         517.6
+ Net amortization                                                                           298.5         331.5
+ Other                                                                                         77.2          67.7
+  Subtotal - adjustments for non-cash flow amounts in the budget related to federal debt             1,009.7         916.8
+Non-cash flow amounts in the budget related to loan financing account activity:
+  Interest revenue on uninvested funds                                                            12.4          10.2
+  Interest expense on entity borrowings                                                                  (55.8)          (47.7)
+ Downward reestimates/negative subsidy payments                                                 (172.3)          (19.5)
+ Subsidy expense/upward reestimates                                                         101.1         170.3
+  Subtotal - adjustments for non-cash flow amounts in the budget related to loan
+  financing account activity                                                                          (114.6)        113.3
+Total of adjustments for non-cash outlays included in the budget                                   895.1        1,030.1
+Cash flow from activities not included in the budget:
+Cash flow from non-budget activities related to federal debt:
+  Interest paid                                                                                       (608.3)        (500.3)
+  Subtotal - cash flow from non-budget activities related to federal debt                                (608.3)        (500.3)
+Cash flow from non-budget activities related to loan financing account activity:
+ Loan disbursements/default payments                                                              (276.9)        (238.0)
+ Fees                                                                                         24.2          22.7
+  Principal and interest repayments                                                            128.8         151.8
+ Other collections on defaulted loans receivable and sale of foreclosed property                         6.3            6.1
+  Special purpose vehicle disbursements                                                                     (0.2)                   -
+ Repayments of special purpose vehicle investments                                                  3.0            9.6
+  Subtotal - cash flow from non-budget activities related to loan financing account activity              (114.8)          (47.8)
+Cash flow from financing federal debt:
+ Borrowings                                                                                30,689.1      28,817.9
+ Repayments                                                                                   (28,795.9)     (26,908.4)
+ Discount/premium                                                                                 (329.7)        (387.8)
+  Subtotal - cash flow from financing federal debt                                                 1,563.5        1,521.7
+Total cash flow from activities not included in the budget                                          840.4         973.6
+Other:
+Allocations of special drawing rights                                                                   1.7            4.8
+All other reconciling items                                                                        48.2          63.8
+  Total other                                                                                    49.9          68.6
+Change in cash and other monetary assets balance                                                10.0         255.5
+Beginning cash and other monetary assets balance                                               1,177.7         922.2
+ Ending cash and other monetary assets balance                                                1,187.7        1,177.7
+1 The FY 2024 budget deficit differs from the FY 2024 budget deficit reported in the September 2024 MTS because of approximately $16.6
+  billion of outlays and $0.6 billion of receipts that were not recorded in the MTS until FY 2025.
+The accompanying notes are an integral part of these financial statements.

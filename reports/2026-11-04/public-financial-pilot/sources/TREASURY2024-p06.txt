@@ -1,0 +1,55 @@
+57                           FY 2024 FINANCIAL STATEMENTS
+
+
+Medicare Parts B and D reported in the SOSI. The SLTFP include all revenues (including general revenues) of the federal
+government.
+
+Statements of Long-Term Fiscal Projections
+
+
+    The SLTFP, including the corresponding Note and RSI, are intended to help readers of the government’s financial
+statements assess the federal government’s financial condition and how it has changed during the year and may change in the
+future. The statements and corresponding analysis are specifically designed to help readers assess whether future budgetary
+resources will be sufficient to sustain public services and to meet obligations as they come due, assuming that current policy
+for federal government services and taxation continues without change.
+    The SLTFP display the PV of 75-year projections by major category of receipts and non-interest spending. The
+projections show the extent to which future receipts of the government exceed or fall short of the government’s non-interest
+spending and are presented both in terms of PV dollars and in terms of PV dollars as a percent of PV GDP. The projections
+reflect policies currently in place and are neither forecasts nor predictions. The projections are consistent with the projections
+for Social Security and Medicare presented in the SOSI and are based on the same economic and demographic assumptions
+that underlie the SOSI. The SLTFP display the fiscal gap, which is a summary measure of the change in receipts or non-
+interest spending that is necessary to reach a target ratio of debt held by the public to GDP at the end of the projection period.
+Note 24—Long-Term Fiscal Projections, explains the methods used to prepare the projections. Unaudited RSI further
+assesses the sustainability of current fiscal policy and provides results that are based on alternative assumptions to those used
+in the SLTFP.
+    As discussed further in Note 24, a sustainable policy is one where the debt-to-GDP ratio is stable or declining over the
+long term. Because GDP measures the size of the nation’s economy in terms of the total value of all final goods and services
+that are produced in a year, the debt-to-GDP ratio is a useful indicator of the economy’s capacity to support federal
+government’s services.
+
+Statements of Social Insurance and Changes in Social Insurance
+Amounts
+
+
+    SOSI provides estimates of the status of the most significant social insurance programs: Social Security, Medicare,
+Railroad Retirement, and Black Lung.2 They are administered by SSA, HHS, RRB, and DOL, respectively. The SSA and
+HHS projections are based on the intermediate economic and demographic assumptions representing the Trustees’ reasonable
+estimates of likely future economic and demographic conditions, as set forth in the applicable Social Security and Medicare
+Trustees Reports as well as in the financial statements of HHS and SSA. RRB’s projections are based on assumptions from
+the 29th Actuarial Valuation of the Assets and Liabilities Under the Railroad Retirement Acts as of December 31, 2022 with
+Technical Supplement, which also serves as the 2024 Annual Report of the Railroad Retirement System required by Section
+502 of the Railroad Retirement Solvency Act of 1983 (P.L. 98-76), as well as in RRB’s financial statements and DOL’s
+projections are based on assumptions disclosed in its financial statements.
+    The SCSIA show two reconciliations: 1) change from the period beginning on January 1, 2023 to the period beginning
+on January 1, 2024; and 2) change from the period beginning on January 1, 2022 to the period beginning on January 1, 2023.
+It reconciles the changes (between the current valuation and the prior valuation) in the PV of estimated future revenue less
+estimated future expenditures for current and future participants (the open group measure) over the next 75 years (except
+Black Lung which has a rolling 25-year projection period). The reconciliation identifies several components of the changes
+that are significant and provides reasons for the changes in Note 25—Social Insurance.
+
+
+
+
+
+2 In relation to the amounts presented in the SOSI and SCSIA, because the combined Railroad Retirement and Black Lung programs account for less than
+one-quarter of 1.0 percent of the statement totals, they are not material from the government-wide perspective.

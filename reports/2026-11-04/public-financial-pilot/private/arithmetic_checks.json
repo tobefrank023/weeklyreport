@@ -1,0 +1,35 @@
+{
+  "P01": {
+    "relation": "2024 asset-detail sum minus printed total assets",
+    "baseline_residual": "0.0",
+    "edited_residual": "800.0"
+  },
+  "P03": {
+    "relation": "corporate and estate rows exchange values in two matching columns",
+    "baseline_pair_sum": "566.5",
+    "edited_pair_sum": "566.5",
+    "scope": "row equations and affected column sums preserved; not full-document certification"
+  },
+  "P04": {
+    "relation": "cash +100 and loans -100; total assets unchanged",
+    "baseline_residual": "0.0",
+    "edited_residual": "0.0"
+  },
+  "P05": {
+    "relation": "revenue row funds 3376.7+1980.7-112.8 minus printed total",
+    "baseline_residual": "0.0",
+    "edited_residual": "-100.0"
+  },
+  "P08": {
+    "relation": "excise taxes 37.2 and 67.3 swap columns; row total preserved",
+    "baseline_row_sum": "104.5",
+    "edited_row_sum": "104.5",
+    "column_delta_other": "30.1",
+    "column_delta_dedicated": "-30.1"
+  },
+  "P09": {
+    "relation": "other-fund net cost 4886.6 + intragovernmental cost minus total 5009.1",
+    "baseline_residual": "0.0",
+    "edited_residual": "-122.5"
+  }
+}

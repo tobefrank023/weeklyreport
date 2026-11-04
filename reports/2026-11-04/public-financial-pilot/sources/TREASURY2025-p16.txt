@@ -1,0 +1,51 @@
+67                           FY 2025 FINANCIAL STATEMENTS
+
+United States Government
+Statements of Social Insurance (Note 25)
+Present Value of Long-Range (75 Years, except Black Lung) Actuarial Projections
+
+(In trillions of dollars)                                       2025    2024    2023    2022    2021
+Federal Old-Age, Survivors and Disability Insurance (Social
+Security):11
+ Revenue (contributions and dedicated taxes) from:
+    Participants who have attained eligibility age (age 62 and over)         2.5        2.4        2.2        2.0        1.8
+    Participants who have not attained eligibility age                     45.3       44.6       42.2       40.4       37.5
+   Future participants                                               44.6       44.3       43.0       41.8       39.3
+    All current and future participants                                  92.4       91.3       87.4       84.2       78.6
+  Expenditures for scheduled future benefits for:
+    Participants who have attained eligibility age (age 62 and over)       (26.1)      (24.6)      (23.5)      (21.6)      (19.8)
+    Participants who have not attained eligibility age                      (75.7)      (74.0)      (71.2)      (68.5)      (64.9)
+   Future participants                                                    (18.5)      (18.1)      (17.9)      (17.4)      (16.6)
+    All current and future participants                                   (120.3)    (116.7)    (112.6)    (107.5)    (101.3)
+Present value of future expenditures in excess of future
+  revenue                                                                   (27.9)1     (25.4)2     (25.2)3     (23.3)4     (22.7)5
+Federal Hospital Insurance (Medicare Part A):11
+ Revenue (contributions and dedicated taxes) from:
+    Participants who have attained eligibility age (age 65 and over)         1.0        0.9        0.9        0.8        0.7
+    Participants who have not attained eligibility age                     16.6       16.2       15.4       14.8       13.0
+   Future participants                                               15.5       15.4       15.0       14.6       13.0
+    All current and future participants                                  33.1       32.5       31.3       30.2       26.7
+  Expenditures for scheduled future benefits for:
+    Participants who have attained eligibility age (age 65 and over)         (8.0)        (7.3)       (7.2)        (7.0)       (6.2)
+    Participants who have not attained eligibility age                      (24.0)      (23.0)      (23.6)      (23.2)      (20.9)
+   Future participants                                                        (4.4)        (4.8)       (5.1)        (5.0)       (4.6)
+    All current and future participants                                     (36.4)      (35.1)      (35.9)      (35.2)      (31.7)
+Present value of future expenditures in excess of future
+  revenue                                                                        (3.3)1       (2.6)2       (4.6)3       (5.0)4       (5.0)5
+Federal Supplementary Medical Insurance (Medicare Part B):11
+ Revenue (premiums) from:
+    Participants who have attained eligibility age (age 65 and over)         2.7        2.3        2.1        2.2        1.9
+    Participants who have not attained eligibility age                     13.2       11.2       10.9       11.8       10.0
+   Future participants                                                   3.3        2.8        2.7        3.1        2.6
+   General Fund transfers                                           49.3       42.4       40.9       39.5       35.5
+    All current and future participants                                  68.5       58.7       56.6       56.6       50.0
+  Expenditures for scheduled future benefits for:
+    Participants who have attained eligibility age (age 65 and over)       (10.0)        (8.5)       (8.0)        (7.8)       (6.9)
+    Participants who have not attained eligibility age                      (46.8)      (39.9)      (38.5)      (38.6)      (34.1)
+   Future participants                                                    (11.7)      (10.3)      (10.1)      (10.2)       (9.0)
+    All current and future participants                                     (68.5)      (58.7)      (56.6)      (56.6)      (50.0)
+  Eliminations                                                             (49.3)      (42.4)      (40.9)      (39.5)      (35.5)
+Present value of future expenditures in excess of future
+  revenue (after eliminations)6                                              (49.3)1     (42.4)2     (40.9)3     (39.5)4     (35.5)5
+
+The accompanying notes are an integral part of these financial statements.

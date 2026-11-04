@@ -1,0 +1,214 @@
+{
+  "week": "2026-11-04",
+  "teacher": "deepseek-v4-1-flash-1017",
+  "reward_basis": "original_verifier_reward_not_sft_relabel",
+  "source_instructions": "embedded_in_case_studies_document",
+  "cases": [
+    {
+      "instance_id": "swe-rf-4acb67d62ec392f8038ab3c1",
+      "run_id": 513282,
+      "trial_name": "swe-rf-4acb67d62ec392f8038ab3c1__ug6phjq",
+      "score": 1.0,
+      "reward": 1.0,
+      "tests": 1.0,
+      "agent_execution": {
+        "started_at": "2026-10-24T22:55:47.616878Z",
+        "finished_at": "2026-10-25T00:17:06.705431Z"
+      },
+      "main_trajectories": [
+        {
+          "assistant_turns": 335,
+          "raw_call_count": 335,
+          "trajectory_index": 0,
+          "segment_index": 0,
+          "is_post_compact": false
+        }
+      ],
+      "source_result_sha256": "58c88a34e0007c047fbfd37e73c94c1d2904fbcd5cf166c0a7e039f15cf2632c"
+    },
+    {
+      "instance_id": "swe-rf-8c44bcfc7682cd148ad91e67",
+      "run_id": 513437,
+      "trial_name": "swe-rf-8c44bcfc7682cd148ad91e67__h4D4LVj",
+      "score": 1.0,
+      "reward": 1.0,
+      "tests": 1.0,
+      "agent_execution": {
+        "started_at": "2026-10-25T09:38:16.648030Z",
+        "finished_at": "2026-10-25T12:04:29.167453Z"
+      },
+      "main_trajectories": [
+        {
+          "assistant_turns": 332,
+          "raw_call_count": 332,
+          "trajectory_index": 0,
+          "segment_index": 0,
+          "is_post_compact": false
+        }
+      ],
+      "source_result_sha256": "697399d7987e6c6db56b84fbd5fbf10de5b89345aa025d932f14c496a281502e"
+    },
+    {
+      "instance_id": "swe-rf-ad6bd4374a63697593903c29",
+      "run_id": 513615,
+      "trial_name": "swe-rf-ad6bd4374a63697593903c29__34TjLn7",
+      "score": 1.0,
+      "reward": 1.0,
+      "tests": 1.0,
+      "agent_execution": {
+        "started_at": "2026-10-25T15:33:57.889275Z",
+        "finished_at": "2026-10-25T17:25:12.072226Z"
+      },
+      "main_trajectories": [
+        {
+          "assistant_turns": 227,
+          "raw_call_count": 227,
+          "trajectory_index": 0,
+          "segment_index": 0,
+          "is_post_compact": false
+        }
+      ],
+      "source_result_sha256": "26315be2be2768ca88b43afa3c78cae0895d923d79bb675d3a56b21235a80b93"
+    },
+    {
+      "instance_id": "swe-rf-8a794af2d9f5b32506204adc",
+      "run_id": 528238,
+      "trial_name": "swe-rf-8a794af2d9f5b32506204adc__gjHHJUy",
+      "score": 1.0,
+      "reward": 1.0,
+      "tests": 1.0,
+      "agent_execution": {
+        "started_at": "2026-11-02T20:18:43.407304Z",
+        "finished_at": "2026-11-02T20:43:09.880572Z"
+      },
+      "main_trajectories": [
+        {
+          "assistant_turns": 139,
+          "raw_call_count": 139,
+          "trajectory_index": 0,
+          "segment_index": 0,
+          "is_post_compact": false
+        }
+      ],
+      "high_round_history": [
+        {
+          "run_id": 527598,
+          "trial_name": "swe-rf-8a794af2d9f5b32506204adc__9HJoyDf",
+          "original_reward": 1.0,
+          "score": 1.0
+        },
+        {
+          "run_id": 528022,
+          "trial_name": "swe-rf-8a794af2d9f5b32506204adc__pCDC6rZ",
+          "score": 0.0,
+          "original_reward": 0.0,
+          "tests": 1.0
+        },
+        {
+          "run_id": 528238,
+          "trial_name": "swe-rf-8a794af2d9f5b32506204adc__gjHHJUy",
+          "score": 1.0,
+          "original_reward": 1.0,
+          "tests": 1.0
+        }
+      ],
+      "source_result_sha256": "80d9bc5650474b66f5e66aa51e4be950e23a9d26c213660f63f50409a4ff39b2"
+    },
+    {
+      "instance_id": "swe-rf-79e118d4119cebd5e5b1b640",
+      "run_id": 528011,
+      "trial_name": "swe-rf-79e118d4119cebd5e5b1b640__qj5dPV4",
+      "score": 1.0,
+      "reward": 0.0,
+      "tests": 0.0,
+      "agent_execution": {
+        "started_at": "2026-11-02T13:12:00.699297Z",
+        "finished_at": "2026-11-02T13:57:26.518602Z"
+      },
+      "main_trajectories": [
+        {
+          "assistant_turns": 131,
+          "raw_call_count": 131,
+          "trajectory_index": 0,
+          "segment_index": 0,
+          "is_post_compact": false
+        },
+        {
+          "assistant_turns": 146,
+          "raw_call_count": 146,
+          "trajectory_index": 1,
+          "segment_index": 0,
+          "is_post_compact": false
+        }
+      ],
+      "high_round_history": [
+        {
+          "run_id": 527569,
+          "trial_name": "swe-rf-79e118d4119cebd5e5b1b640__Y5CyAH8",
+          "original_reward": 0.0,
+          "score": 0.7272727272727273
+        },
+        {
+          "run_id": 528011,
+          "trial_name": "swe-rf-79e118d4119cebd5e5b1b640__qj5dPV4",
+          "score": 1.0,
+          "original_reward": 0.0,
+          "tests": 0.0
+        },
+        {
+          "run_id": 528229,
+          "trial_name": "swe-rf-79e118d4119cebd5e5b1b640__5wDYjfZ",
+          "score": 0.0,
+          "original_reward": 0.0,
+          "tests": 0.0
+        }
+      ],
+      "source_result_sha256": "ba77a8fd40834859b461eaf0c4275fa5d8c1991fadd4a3e7e07c468240c3c3b4"
+    },
+    {
+      "instance_id": "swe-rf-9e1bc315d2c0c55f09d71b78",
+      "run_id": 528238,
+      "trial_name": "swe-rf-9e1bc315d2c0c55f09d71b78__6ELufkD",
+      "score": 0.9090909090909091,
+      "reward": 0.0,
+      "tests": 0.0,
+      "agent_execution": {
+        "started_at": "2026-11-02T20:30:15.999512Z",
+        "finished_at": "2026-11-02T20:49:39.178806Z"
+      },
+      "main_trajectories": [
+        {
+          "assistant_turns": 133,
+          "raw_call_count": 133,
+          "trajectory_index": 0,
+          "segment_index": 0,
+          "is_post_compact": false
+        }
+      ],
+      "high_round_history": [
+        {
+          "run_id": 527598,
+          "trial_name": "swe-rf-9e1bc315d2c0c55f09d71b78__YDjHskw",
+          "score": 0.0,
+          "original_reward": 0.0,
+          "tests": 0.0
+        },
+        {
+          "run_id": 528022,
+          "trial_name": "swe-rf-9e1bc315d2c0c55f09d71b78__6p3A7WZ",
+          "score": 0.0,
+          "original_reward": 0.0,
+          "tests": 0.0
+        },
+        {
+          "run_id": 528238,
+          "trial_name": "swe-rf-9e1bc315d2c0c55f09d71b78__6ELufkD",
+          "score": 0.9090909090909091,
+          "original_reward": 0.0,
+          "tests": 0.0
+        }
+      ],
+      "source_result_sha256": "625915a8cdc9f5cfcce0bd5b3a9d1c092a829828badb1b9355db30cdbcc75466"
+    }
+  ]
+}

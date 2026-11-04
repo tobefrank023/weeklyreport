@@ -1,33 +1,19 @@
 # Weekly Reports
 
-## 研究记录
+按周归档研究进展、实验结果与真实案例。
 
-### 2026-10-28：金融材料篡改检测小试
+## 2026-11-04（1104）
 
-使用 Codex CLI + `gpt-6-luna`（medium effort）执行 30 道题：18 道单文档判断、12 道原改对比，来自 21 组原件。实际为整页看图直答，没有工具探索。
+本周整理六道 RF 重构任务：三个 150 轮以上、rubric 满分且功能测试通过的实例，以及三个 high effort 多圈评分波动的实例。
 
-临时内容完成分为 **52.5/100**，未纳入定位框评分；这是一轮开发可行性小试，不是正式 benchmark 成绩。
+- [本周周报](reports/2026-11-04/README.md)
+- [六道 RF 任务与 rollout 案例](reports/2026-11-04/SWEPM-RF-CASE-STUDIES.md)
 
-- [实验说明：题目格式、解题方式、评分与局限](reports/2026-10-28-financial-material-pilot/EXPERIMENT_NOTE.md)
-- [4 道真实案例：题面、局部示例、标注答案与模型回答](reports/2026-10-28-financial-material-pilot/CASE_EXAMPLES.md)
-- [机器可读的汇总结果](reports/2026-10-28-financial-material-pilot/data/summary.json)
+## 2026-10-28（1028）
 
-公开内容不包含内部整页材料、完整题库或访问凭据。案例中的局部图是阅读示例，模型实际输入为整页图片。
+上周整理 CAD 调研与实验、金融材料篡改检测小试，以及 SWEPM-RF 任务构造流程。
 
-### 2026-10-28：CAD 调研与实验进展汇总
-
-完成 CAD Benchmark、Agent 与模型调研，并在物理机上开展 CADTestBench 全量、失败题恢复及 BenchCAD 九个公开样例的三模型实验。汇总包含原始/v2 评分、成本、案例、协议边界和后续研究建议，明确区分单次成绩与多阶段累计覆盖。
-
-- [阶段汇总：全部实验结果、成本与研究判断](reports/2026-10-28-CAD.md)
-- [完整 CAD 调研：2026-10-22 历史快照](references/CAD-survey-2026-10-22.md)
-- [原 CAD 项目目标说明](references/CAD-agent.md)
-- [原始实验与完整轨迹](https://github.com/cai-yutao/CAD-agent/tree/6c45380541c2480bf6695f8aa87bf705fa893a72)
-
-### 2026-10-28：SWEPM-RF 重构任务构造
-
-介绍从真实仓库发现重构入口、构造完整任务、独立验证与交付的整体架构，说明难度如何通过跨组件约束和迁移完整性加入，并展示 Paperless、nghttp2/nghttpx、Maddy、pandas_profiling 与 HiGHS 五个真实案例。包含当前 rollout 质检规则：Luna 跑 5 次且最多正确 2 次，再由 Sol 跑 1 次；Sol 失败时 Astra 再跑 1 次，至少一个强模型做对才通过。
-
-- [工作介绍、整体架构、难度设计与案例](reports/2026-10-28-SWEPM-RF/SWEPM-RF.md)
-- [完整分享包 ZIP（含两张 PNG 配图）](reports/2026-10-28-SWEPM-RF/SWEPM-RF-share.zip)
-
-构造与案例材料依据 2026-10-26 核对记录整理，rollout 质检按项目负责人补充的当前规则更新；本次文档更新不代表重新执行题目验证或模型 rollout。
+- [上周周报](reports/2026-10-28/README.md)
+- [CAD 调研与实验进展](reports/2026-10-28-CAD.md)
+- [金融材料篡改检测小试](reports/2026-10-28-financial-material-pilot/EXPERIMENT_NOTE.md)
+- [SWEPM-RF 构造流程与案例](reports/2026-10-28-SWEPM-RF/SWEPM-RF.md)

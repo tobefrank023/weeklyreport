@@ -12,12 +12,15 @@
 
 公开金融文档方面，使用两份公开财报构造了两轮各10道题，加入跨页关系、单位变化和正常重述对照。Luna的临时内容完成分从基础轮95降为升级轮62.92；该结果属于同源开发小样，尚不是正式benchmark成绩。专题同时整理前期修改模式与公开case的对应关系，未覆盖类别单独注明。
 
+前期金融材料扫描已扩展到976份目录，归纳字段主题与九类修改机制；其中63份保存了完整详情，目录统计仍不等于全量逐页复核。分类专题将这些机制与公开构造题逐项对应，并保留未覆盖方向。
+
 ## 本周内容
 
 - [六道 RF 任务：中文说明、完整英文题面、长轨迹与三圈评分](SWEPM-RF-CASE-STUDIES.md)
 - [六题结果索引（JSON）](case-results.json)
 - [软件工程 Agent 错误建议干扰评测：方法、迭代与结果](SWE-BAD-ADVICE-BENCHMARK.md)
 - [错误建议评测匿名汇总（JSON）](swe-bad-advice-summary.json)
+- [金融材料修改模式：扫描分类与公开题目case](FINANCIAL-MATERIAL-PATTERNS.md)
 - [公开金融文档核查：分类、案例与难度递进汇总](PUBLIC-FINANCIAL-BENCH-DIFFICULTY.md)
 - [公开数据基础轮：10题及原始结果](public-financial-pilot/README.md)
 - [公开数据升级轮：多页题目、完整真值与原始结果](public-financial-hard/README.md)

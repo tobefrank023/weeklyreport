@@ -11,6 +11,7 @@
 - [本周周报](reports/2026-11-04/README.md)
 - [六道 RF 任务与 rollout 案例](reports/2026-11-04/SWEPM-RF-CASE-STUDIES.md)
 - [软件工程 Agent 错误建议干扰评测](reports/2026-11-04/SWE-BAD-ADVICE-BENCHMARK.md)
+- [金融材料修改模式：扫描分类与公开题目case](reports/2026-11-04/FINANCIAL-MATERIAL-PATTERNS.md)
 - [公开金融文档核查：分类、构造案例与两轮难度实验](reports/2026-11-04/PUBLIC-FINANCIAL-BENCH-DIFFICULTY.md)
 
 ## 2026-10-28（1028）
